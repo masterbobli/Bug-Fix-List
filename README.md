@@ -1,3 +1,6 @@
+# Issues Fixed
+Note: the presence of "?" in some entries indicates that there is code implemented to address the reported issue, but it has not been thoroughly tested yet.
+
 ## General
 - Ship Designer's "Upgrade All Modules" functionality only upgrades Anti-air to Level 3. [Link](https://forum.paradoxplaza.com/forum/threads/ship-designers-upgrade-all-modules-functionality-only-upgrades-anti-air-to-level-3.1590434/)
 - `ai_chance` ignores the modifiers because `factor = 0`. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-setting-factor-0-in-ai_chance-ignores-the-modifiers-1-10-5-502a.1468930/)
