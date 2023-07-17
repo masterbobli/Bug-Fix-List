@@ -1,34 +1,35 @@
-# Issues Fixed
-Note: the presence of "?" in some entries indicates that there is code implemented to address the reported issue, but it has not been thoroughly tested yet.
-
 ## General
+- Various formable nations fix, including
+    - Cannot form Gran Colombia as Crucao and Guyana.
+    - Cannot form Central America as Belize.
+    - Decisions to form new countries do not add core to some states split from a later update.
+    - Greater Lithuania and Greater Commonwealth doesn't have cores in Balta-Tiraspol.
 - Ship Designer's "Upgrade All Modules" functionality only upgrades Anti-air to Level 3. [Link](https://forum.paradoxplaza.com/forum/threads/ship-designers-upgrade-all-modules-functionality-only-upgrades-anti-air-to-level-3.1590434/)
 - `ai_chance` ignores the modifiers because `factor = 0`. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-setting-factor-0-in-ai_chance-ignores-the-modifiers-1-10-5-502a.1468930/)
 - German civil war overrides the play-set AI behavior of UK and Italy to follow the historical path. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-german-civil-war-overrides-the-play-set-ai-behavior-of-uk-and-italy-to-follow-the-historical-path.1561968/)
-- Some intended permanent move of capitals could move back to the former location after recapturing the former capital.
+- Some intended permanent move of capitals could move back to the former location after recapturing the former “capital”.
 - ? "Industrial Land Appropriation" pops up when no slots can actually be added. [Link](https://forum.paradoxplaza.com/forum/threads/industrial-land-appropriation-pops-up-if-you-have-no-states-with-5-5-infra-but-only-takes-stab-and-ws-adding-no-slot.1583429/)
 - Naval Strike Torpedo Tactics doctrine in the Operational Integrity tree miscategorized as Battlefield Support Doctrine. [Link](https://forum.paradoxplaza.com/forum/threads/doctrine-cost-bonus-from-theorist-not-applied.1590381/)
-- Cannot form Gran Colombia as Crucao and Guyana.
-- Cannot form Central America as Belize.
-- Decisions to form new countries do not add core to some states split from a later update.
 - Non-existent dynamic tags can be valid collaboration government target.
 - Collaboration government creates a dynamic tag even when the original tag can be released.
-- Releasing collaboration governments assigns your core states to the collaboration government
+- Releasing collaboration governments will give your core states to the collaboration government.
 - State ownership changes cause loss of extra building slots.
 - is_controlled_by_ROOT_or_subject trigger doesn't have a loc key.
 - Typo in spirit of the airforce "Industry Liaisons".
 - Slovenia have an incorrect capital.
 - Event "treaty_org.4" does not have a title.
-- Greater Lithuania and Greater Commonwealth doesn't have cores in Balta-Tiraspol.
-- Lithuania's Baltic Entente decision has TODO effects
+- ? Embrace the future Spirit of the Academy gives Panzer Leader instead of Armor Officer. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-embrace-the-future-spirit-of-the-academy-in-officer-corps-usually-gets-you-panzer-leader-and-not-panzer-officer-barbarossa-v1-11-12-82b4.1538946/)
+- Several news events about the capture/liberation of states doesn't fire properly.
+- Some state modifiers is added to the country scope, and vice versa.
 
 ## Australia
 - Australia Support Indonesian Uprising doesn't work. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
 
 ## Baltic
-- "Forest Brothers" Divisions Doesn't Spawn in Baltic Shared Communist Civil War. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-steam-v1-11-4-e26e-b22c-blatic-shared-communist-civil-war-not-working-as-intended.1505469/)
+- "Forest Brothers" divisions doesn't spawn in Baltic shared communist civil war. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-steam-v1-11-4-e26e-b22c-blatic-shared-communist-civil-war-not-working-as-intended.1505469/)
 - Incorrect Annexation of Belarus in Belarussian Civil War. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-launching-civil-war-in-belarussian-states-with-high-claims-results-in-winner-directly-annexing-the-soviet-belarus-without-getting-cores.1502952/)
 - Communist Baltic countries keep generals with anti-bolshevism traits in civil war. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-communist-baltic-countries-keeps-generals-with-anti-bolshevism-traits-in-civil-war.1502948/)
+- Lithuania's Baltic Entente decision has a few TODO effects.
 
 ## China
 - Dali doesn't have the modifier "Densely Populated Rural Area". [Link](https://forum.paradoxplaza.com/forum/threads/code-error-in-hearts-of-iron-iv-history-countries-chi-china-txt.1584851/)
@@ -37,7 +38,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 ## Communist China
 - The hidden event that should age Mao Zedong doesn't work. [Link](https://steamcommunity.com/linkfilter/?url=https://forum.paradoxplaza.com/forum/threads/cant-get-the-people-have-stood-up-achievment.1580470/)
 - Warlords cannot bypass focuses in the communist tree that has no effects.
-- ? Parts of China received by Mao after the civil war contains no states.
+- Parts of China Mao receives after the Chinese United Front is disbanded contains no states.
 
 ## Ethiopia
 - ? "Invite Foreign Prospectors" decision is not visible sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-focus-and-decision-bugged-invite-foreign-prospectors.1546224/)
@@ -63,10 +64,11 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Günther von Kluge may not be the country leader if Wehrmacht is asked to restore order in the SS civil war.
 - ? Germany doesn't receive correct cosmetic tag in SS civil war.
 - ? Freeing Wilhelm II from the Netherlands gives Wilhelm III as country leader. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-as-germany-freeing-wilhelm-ii-from-the-netherlands-gives-wilhelm-iii-as-country-leader.1553489/)
+- Germany doesn't get cores on Danzig if Poland agrees to cede Danzig.
 
 ## Greece
 - "Form Greater Greece" decision is available when Adolfos I becomes the leader.
-- Various fixes to Heraklion convention. (Credit to Mefisto1029)
+- Various fixes to the Heraklion Convention. (Credit to Mefisto1029)
 
 ## Italy
 - Various issues in the Italian Civil War, including
@@ -76,19 +78,24 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Unable to start Italian focus "Flotta d'Evasione". [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-12-11-italian-focus-flotta-devasione-not-possible-with-mtg.1572710/)
 - Modifier 'Mafia on the Rise' is added to the country scope and cannot be removed. [Link](https://forum.paradoxplaza.com/forum/threads/mafia-on-the-rise-doesnt-go-away.1586525/)
 - Anarchists respond to themselves when communist Italy wants to cooperate with them. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi-4-anarchists-responds-to-themselves-when-communist-italy-want-to-cooperate-with-them.1546020/)
-- Cannot release Ethiopia (and its constituents) with 70% compliance.
+- Cannot release Ethiopia (and its constituents) with 70% compliance. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-italy-cant-release-ethiopia-even-with-the-required-compliance.1551526/)
 - Kingdom of Bosperous cannot be established if Crimea controlls one of the required states.
 - Duplicate bonus for production cost of heavy tanks in the Italian focus tree. [Link](https://forum.paradoxplaza.com/forum/threads/missing-bonuses-for-italian-military-industry.1592898/)
 - Focus "Corpo di Truppe Volontarie" can be bypassed before Spanish civil war begins.
 - Mussolini can still come to power again after being deposed through focus.
 - Greece/Turkey fails to join Italian faction in the trade of Dodecanese islands. [Link](https://forum.paradoxplaza.com/forum/threads/greece-turkey-fails-to-join-italian-faction-in-the-trade-of-dodecanese-islands-with-solution.1590557/)
+- Local Ethiopian rulers doesn't become country leader if Italy attempts to release subject countries when Ethiopia goes into exile. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-pc-v1-12-2-9ebb-e45c-s-ethiopian-sub-nations-dont-use-unique-portraits.1545774/)
+- Focus "The Garibaldi Legion" does not allow sending volunteers to anarchist Spain.
+
+## India
+- The strength of the Indian civil war does not properly scale with autonomy level.
 
 ## Japan
-- Japan focus "Approach the Young Officers" only gives 1 communist general.
+- Japan focus "Approach the Young Officers" only gives 1 communist general. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi-4-v1-11-3-b175-33b6-possible-communist-japan-bug.1503098/)
 
 ## Lithuania
 - Request Polish occupation transfers occupied Polish state instead of transferring the occupation staus.
-- Bolesław Piasecki doesn't become the country leader of Lithuanian Poland
+- Bolesław Piasecki doesn't become the country leader of Lithuanian Poland.
 
 ## Latvia
 - "Ignite the [Country] Civil War" decision only targets Poland.
@@ -122,6 +129,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Soviet unit leaders may accuse themselves for treason.
 - Cannot reinstate design bureau immediately after the coup.
 - Yakovlev designer always becomes the first aircraft designer being targeted in a great purge.
+- ? Russia will not receive an event if the fascist American country refuses to join faction through focus Intervention in the Americas.
 
 ## Spain
 - Various issues in the Spanish Civil War, including
@@ -144,7 +152,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Austro-Hungarian Empire does not form or joining the faction after completing the "Press the Austro-Hungarian Claim" Focus. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-turkish-focus-press-the-austro-hungarian-claim-not-working.1438077/)
 - "The Pan-National Association of Ulemas" focus could get bypassed sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/turkish-focus-tree-nation-bugs.1592046/)
 - Ataturk will no longer die twice. [Link](https://forum.paradoxplaza.com/forum/threads/turkish-focus-tree-nation-bugs.1592046/)
-- Unable to Remove "Disorganised Armed Forces" National Spirit through Decisions as Turkey. [Link](https://forum.paradoxplaza.com/forum/threads/unable-to-remove-disorganised-armed-forces-national-spirit-through-decisions-as-turkey.1593204/)
+- Unable to remove "Disorganised Armed Forces" national spirit through decisions as Turkey. [Link](https://forum.paradoxplaza.com/forum/threads/unable-to-remove-disorganised-armed-forces-national-spirit-through-decisions-as-turkey.1593204/)
 
 ## United Kingdom
 - The portrait of Winston Churchill is abnormal in non-Latin alphabet-based localisation. [Link](https://forum.paradoxplaza.com/forum/threads/protrait-of-winston-churchill-is-abnormal-in-non-latin-alphabet-based-localisation.1586877/)
@@ -152,8 +160,8 @@ Note: the presence of "?" in some entries indicates that there is code implement
 ## USA
 - Conflicting plans prevent AI United States from changing ideology. [Link](https://forum.paradoxplaza.com/forum/threads/conflicting-plans-prevent-ai-united-states-from-changing-ideology.1590275/)
 - Infinite chromium in Alaska. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-infinite-chromium-in-alaska-1-12-6-46b6-a6ba.1559922/)
-- Non-MTG naval OOB starts with duplicate submarines. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-usa-starts-with-extra-submarines-without-mtg.1574789/)
-- "Homeland Defense Emergency Act" only removes the initial version of the great depression.
+- ? Non-MTG naval OOB starts with duplicate submarines. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-usa-starts-with-extra-submarines-without-mtg.1574789/)
+- ? "Homeland Defense Emergency Act" only removes the initial version of the great depression.
 
 ## Yugoslavia
 - The focus "Banat for Support" gives Romania cores on both states. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-the-yugoslavian-focus-banat-for-support-incorrectly-gives-the-romanian-core-v1-12-13-b721.1538876/)
