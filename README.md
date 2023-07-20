@@ -21,6 +21,9 @@
 - ? Embrace the future Spirit of the Academy gives Panzer Leader instead of Armor Officer. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-embrace-the-future-spirit-of-the-academy-in-officer-corps-usually-gets-you-panzer-leader-and-not-panzer-officer-barbarossa-v1-11-12-82b4.1538946/)
 - Several news events about the capture/liberation of states doesn't fire properly.
 - Some state modifiers is added to the country scope, and vice versa.
+- ? AI is unlikely to invest in Greece or Turkey unless they have unused civilian factories.
+- ? Several AI factors that demands other country being puppeted/annexed from Poland/Baltics are incorrectly written.
+- ? AI does not hire advisors who possess the traits of communist revolutionary, democratic reformer, or fascist demagogue even when specifically instructed to do so most of the times.
 
 ## Australia
 - Australia Support Indonesian Uprising doesn't work. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
@@ -39,6 +42,9 @@
 - The hidden event that should age Mao Zedong doesn't work. [Link](https://steamcommunity.com/linkfilter/?url=https://forum.paradoxplaza.com/forum/threads/cant-get-the-people-have-stood-up-achievment.1580470/)
 - Warlords cannot bypass focuses in the communist tree that has no effects.
 - Parts of China Mao receives after the Chinese United Front is disbanded contains no states.
+
+## Czechoslovakia
+- ? Czechoslovakia's naional spirit "Entente joint planning" does not work for faction members. [Link](https://steamcommunity.com/linkfilter/?url=https://forum.paradoxplaza.com/forum/threads/cant-get-the-people-have-stood-up-achievment.1580470/)
 
 ## Ethiopia
 - ? "Invite Foreign Prospectors" decision is not visible sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-focus-and-decision-bugged-invite-foreign-prospectors.1546224/)
@@ -106,6 +112,7 @@
 
 ## Poland
 - Free City of Danzig loses core on Danzig when they rise up against Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-free-city-of-danzig-looses-core-on-danzig-when-they-rise-up-against-poland.1561972/)
+- ? national focus "Enforce Baltic Socialism" triggers events demanding Poland to become a puppet of itself. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-doing-enforce-baltic-socialism-while-owning-latvia-results-in-poland-demands-submission-from-itself-1-11-1-bf90.1499394/)
 
 ## South Africa
 - Four national focuses about autonomy progress have no requirements. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-focus-south-africa-first-enables-south-africa-to-declare-independence-regardless-of-autonomy.1548439/)
@@ -156,6 +163,7 @@
 
 ## United Kingdom
 - The portrait of Winston Churchill is abnormal in non-Latin alphabet-based localisation. [Link](https://forum.paradoxplaza.com/forum/threads/protrait-of-winston-churchill-is-abnormal-in-non-latin-alphabet-based-localisation.1586877/)
+- ? The United Kingdom does not have cores on the US states if it reclaimed Canada through an imperialist civil war after forming the imperial federation with the North America dominion established. [Link](https://forum.paradoxplaza.com/forum/threads/no-cores-from-imperial-federation.1455596/)
 
 ## USA
 - Conflicting plans prevent AI United States from changing ideology. [Link](https://forum.paradoxplaza.com/forum/threads/conflicting-plans-prevent-ai-united-states-from-changing-ideology.1590275/)
