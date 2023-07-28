@@ -18,12 +18,12 @@
 - Typo in spirit of the airforce "Industry Liaisons".
 - Slovenia have an incorrect capital. [Link](https://forum.paradoxplaza.com/forum/threads/some-emergent-countries-have-incorrect-capitals.1578066/)
 - Event "treaty_org.4" does not have a title.
-- ? Embrace the future Spirit of the Academy gives Panzer Leader instead of Armor Officer. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-embrace-the-future-spirit-of-the-academy-in-officer-corps-usually-gets-you-panzer-leader-and-not-panzer-officer-barbarossa-v1-11-12-82b4.1538946/)
+- Embrace the future Spirit of the Academy gives Panzer Leader instead of Armor Officer. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-embrace-the-future-spirit-of-the-academy-in-officer-corps-usually-gets-you-panzer-leader-and-not-panzer-officer-barbarossa-v1-11-12-82b4.1538946/)
 - Several news events about the capture/liberation of states doesn't fire properly. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-the-news-of-the-fall-of-singapore-has-ceased-to-appear-1-9-0-last.1341120/)
 - Some state modifiers is added to the country scope, and vice versa.
-- ? AI is unlikely to invest in Greece or Turkey unless they have unused civilian factories. [Link](https://forum.paradoxplaza.com/forum/threads/greek-foreign-investment-decisions.1442150/)
+- AI is unlikely to invest in Greece or Turkey unless they have unused civilian factories. [Link](https://forum.paradoxplaza.com/forum/threads/greek-foreign-investment-decisions.1442150/)
 - ? Several AI factors that demands other country being puppeted/annexed from Poland/Baltics are incorrectly written.
-- ? AI does not hire advisors who possess the traits of communist revolutionary, democratic reformer, or fascist demagogue even when specifically instructed to do so most of the times.
+- AI does not hire advisors who possess the traits of communist revolutionary, democratic reformer, or fascist demagogue even when specifically instructed to do so most of the times.
 
 ## Australia
 - Australia Support Indonesian Uprising doesn't work. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
@@ -45,10 +45,10 @@
 - Parts of China Mao receives after the Chinese United Front is disbanded contains no states.
 
 ## Czechoslovakia
-- ? Czechoslovakia's naional spirit "Entente joint planning" does not work for faction members. [Link](https://steamcommunity.com/linkfilter/?url=https://forum.paradoxplaza.com/forum/threads/cant-get-the-people-have-stood-up-achievment.1580470/)
+- Czechoslovakia's naional spirit "Entente joint planning" does not work for faction members. [Link](https://steamcommunity.com/linkfilter/?url=https://forum.paradoxplaza.com/forum/threads/cant-get-the-people-have-stood-up-achievment.1580470/)
 
 ## Ethiopia
-- ? "Invite Foreign Prospectors" decision is not visible sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-focus-and-decision-bugged-invite-foreign-prospectors.1546224/)
+- "Invite Foreign Prospectors" decision is not visible sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-focus-and-decision-bugged-invite-foreign-prospectors.1546224/)
 - The effect to add VP to the city in Begemder targets a province in Afghanistan. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-the-effect-to-add-vp-to-city-in-begemder-targets-a-province-in-afghanistan.1560699/)
 - Ethiopia can't purchase Soviet ships. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-cant-purchase-soviet-ships.1554391/)
 - AI Italy never agrees to Ethiopian territorial compensation. [Link](https://forum.paradoxplaza.com/forum/threads/ai-italy-never-agrees-to-ethiopian-territorial-compensation.1547749/)
@@ -60,18 +60,19 @@
 
 ## France
 - "Disunite Germany" focus does not release Austria as a puppet. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi4-v-1-11-4-b22c-taking-the-focus-disunite-germany-as-france-fails-to-release-austria-as-a-puppet.1504136/)
-- ? National Focus "Grow the Empire" only gives parts of Belgian Congo to France. [Link](https://forum.paradoxplaza.com/forum/threads/national-focus-grow-the-empire-now-only-gives-parts-of-belgian-congo-to-france.1587416/)
+- National Focus "Grow the Empire" only gives parts of Belgian Congo to France. [Link](https://forum.paradoxplaza.com/forum/threads/national-focus-grow-the-empire-now-only-gives-parts-of-belgian-congo-to-france.1587416/)
 
 ## Germany
 - Reinstated fascist generals have incorrect portraits. [Link](https://forum.paradoxplaza.com/forum/threads/incorrect-portraits-for-reinstated-nazi-germany-unit-leaders.1592764/)
 - Democratic Germany cannot protect Polish states split from a later update when attacked by the Soviet Union.
-- ? National Focus "Alliance with Spain" does not remove all 3 versions of "Recovering From Civil War" national spirits from Spain. [Link](https://forum.paradoxplaza.com/forum/threads/german-focus-alliance-with-spain-does-not-remove-recovering-from-civil-war-for-spain.1588838/)
+- National Focus "Alliance with Spain" does not remove all 3 versions of "Recovering From Civil War" national spirits from Spain. [Link](https://forum.paradoxplaza.com/forum/threads/german-focus-alliance-with-spain-does-not-remove-recovering-from-civil-war-for-spain.1588838/)
 - "Reichskommissariats" decision category uses a generic icon.
 - RK Ukraine now requires controlling Balta-Tiraspol.
 - Günther von Kluge may not be the country leader if Wehrmacht is asked to restore order in the SS civil war.
-- ? Germany doesn't receive correct cosmetic tag in SS civil war.
-- ? Freeing Wilhelm II from the Netherlands gives Wilhelm III as country leader. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-as-germany-freeing-wilhelm-ii-from-the-netherlands-gives-wilhelm-iii-as-country-leader.1553489/)
+- Germany doesn't receive correct cosmetic tag in SS civil war.
+- Freeing Wilhelm II from the Netherlands gives Wilhelm III as country leader. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-as-germany-freeing-wilhelm-ii-from-the-netherlands-gives-wilhelm-iii-as-country-leader.1553489/)
 - Germany doesn't get cores on Danzig if Poland agrees to cede Danzig.
+- Typo in event option wtt_germany.20.a
 
 ## Greece
 - "Form Greater Greece" decision is available when Adolfos I becomes the leader.
@@ -92,7 +93,6 @@
 - Mussolini can still come to power again after being deposed through focus.
 - Greece/Turkey fails to join Italian faction in the trade of Dodecanese islands. [Link](https://forum.paradoxplaza.com/forum/threads/greece-turkey-fails-to-join-italian-faction-in-the-trade-of-dodecanese-islands-with-solution.1590557/)
 - Local Ethiopian rulers doesn't become country leader if Italy attempts to release subject countries when Ethiopia goes into exile. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-pc-v1-12-2-9ebb-e45c-s-ethiopian-sub-nations-dont-use-unique-portraits.1545774/)
-- Focus "The Garibaldi Legion" does not allow sending volunteers to anarchist Spain.
 
 ## India
 - The strength of the Indian civil war does not properly scale with autonomy level.
@@ -113,7 +113,8 @@
 
 ## Poland
 - Free City of Danzig loses core on Danzig when they rise up against Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-free-city-of-danzig-looses-core-on-danzig-when-they-rise-up-against-poland.1561972/)
-- ? National focus "Enforce Baltic Socialism" triggers events demanding Poland to become a puppet of itself. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-doing-enforce-baltic-socialism-while-owning-latvia-results-in-poland-demands-submission-from-itself-1-11-1-bf90.1499394/)
+- National focus "Enforce Baltic Socialism" triggers events demanding Poland to become a puppet of itself. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-doing-enforce-baltic-socialism-while-owning-latvia-results-in-poland-demands-submission-from-itself-1-11-1-bf90.1499394/)
+- Many triggers and effects are incorrect in the national focus "Enforce Baltic Socialism" and "Commonwealth of Socialist Republics" don't work.
 - ? Event to demand the return of Otto von Habsburg only removes one variant of the Hungarian Monarchy national spirit.
 
 ## South Africa
@@ -128,6 +129,8 @@
     - The Soviet civil war pauses the Communist Baltic civil war.
     - Stalinist Soviet Union doesn't keep the negative great purge modifier.
     - Unit leaders promoted to country leader in the uprising side may side with Stalin sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/soviet-opposition-may-have-generic-leader-during-civil-war.1592951/)
+    - States targeted by right-opposition uprising don't align with the right opposition at the start of the civil war.
+    - Decision "The Head of the NKVD - Yezhov" references Yagoda in the description instead of Yezhov.
 - Sakhalin and the Kuril Islands are not cored by the USSR. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-sakhalin-and-the-kuril-islands-dont-cored-by-ussr-v1-12-13-e502.1500386/)
 - The "Promise of Peace Broken" event fires to the wrong country when declaring war on the Soviet Union. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-promise-of-peace-broken-event-fires-to-the-wrong-country-when-declaring-war-on-soviet-union.1547603/)
 - The "Demand Increased Tribute" decision does not reduce the decision cost for the "Direct Rule from Moscow" decision. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-demand-increased-tribute-doesnt-reduce-the-decision-cost-for-decision-direct-rule-from-moscow.1508444/)
@@ -175,6 +178,7 @@
 - Infinite chromium in Alaska. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-infinite-chromium-in-alaska-1-12-6-46b6-a6ba.1559922/)
 - ? Non-MTG naval OOB starts with duplicate submarines. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-usa-starts-with-extra-submarines-without-mtg.1574789/)
 - ? Decision "Homeland Defense Emergency Act" and both events for US to return to democracy only removes the initial version of the great depression.
+- Philippines does not have the correct party popularity set. [Link](https://forum.paradoxplaza.com/forum/threads/fix-the-incorrect-display-of-the-popularity-of-philippine-parties.1594613/)
 
 ## Yugoslavia
 - The focus "Banat for Support" gives Romania cores on both states. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-the-yugoslavian-focus-banat-for-support-incorrectly-gives-the-romanian-core-v1-12-13-b721.1538876/)
