@@ -61,6 +61,7 @@
 ## France
 - "Disunite Germany" focus does not release Austria as a puppet. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi4-v-1-11-4-b22c-taking-the-focus-disunite-germany-as-france-fails-to-release-austria-as-a-puppet.1504136/)
 - National Focus "Grow the Empire" only gives parts of Belgian Congo to France. [Link](https://forum.paradoxplaza.com/forum/threads/national-focus-grow-the-empire-now-only-gives-parts-of-belgian-congo-to-france.1587416/)
+- ? AI behavior "Democratic - Alternate" is not working. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-french-ai-behavior-democratic-alternate-little-entente-is-not-working.1556634/)
 
 ## Germany
 - Reinstated fascist generals have incorrect portraits. [Link](https://forum.paradoxplaza.com/forum/threads/incorrect-portraits-for-reinstated-nazi-germany-unit-leaders.1592764/)
@@ -77,6 +78,7 @@
 ## Greece
 - "Form Greater Greece" decision is available when Adolfos I becomes the leader.
 - Various fixes to the Heraklion Convention. (Credit to Mefisto1029)
+- Event "Communists Seize Power in Greece" Incorrectly Sent to Soviet Union. [Link](https://forum.paradoxplaza.com/forum/threads/event-communists-seize-power-in-greece-incorrectly-sent-to-soviet-union.1594907/)
 
 ## Italy
 - Various issues in the Italian Civil War, including
@@ -143,6 +145,7 @@
 - Yakovlev designer always becomes the first aircraft designer being targeted in a great purge. [Link](https://forum.paradoxplaza.com/forum/threads/fixed-rng-causing-yakovlev-design-bureau-to-be-consistently-targeted-in-the-great-purge.1590971/)
 - ? Russia will not receive an event if the fascist American country refuses to join faction through focus Intervention in the Americas.
 - Soviet Union is twice as likely to pick Right Opposition Cooperative in ahistorical mode.
+- Random purges can still be triggered if one is already going to be triggered from Stalin's counter-measure missions.
 
 ## Spain
 - Various issues in the Spanish Civil War, including
@@ -153,7 +156,6 @@
  - The "Autonomos State" province modifier doesn't get removed when countries are released as free. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-sakhalin-and-the-kuril-islands-dont-cored-by-ussr-v1-12-13-e502.1500386/)
 - Global Defence Council have a duplicate decision to core Balearic Islands and Canary Islands.
 - The national spirit "Popular Front" does not update properly sometimes.
-- Spanish Commune cannot release any countries. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-9-1-9a9b-anti-stalinist-communist-spain-cannot-make-puppets-or-boost-ideology.1348948/)
 
 ## Turkey
 - Can't remove the negative Turkish/Ottoman national spirit "Sectarian Woes." (Note: Only a partial fix for Kurdistan is implemented) [Link](https://forum.paradoxplaza.com/forum/threads/cant-remove-negative-turkish-ottoman-national-spirit-sectarian-woes.1577414/)
