@@ -1,3 +1,6 @@
+# Issues Fixed
+Note: the presence of "?" in some entries indicates that there is code implemented to address the reported issue, but it has not been thoroughly tested yet.
+
 ## General
 - Various formable nations fix, including
     - Cannot form Gran Colombia as Crucao and Guyana.
@@ -24,6 +27,7 @@
 - AI is unlikely to invest in Greece or Turkey unless they have unused civilian factories. [Link](https://forum.paradoxplaza.com/forum/threads/greek-foreign-investment-decisions.1442150/)
 - ? Several AI factors that demand other countries to be puppeted/annexed from Poland/Baltics are incorrectly written.
 - AI does not hire advisors who possess the traits of communist revolutionary, democratic reformer, or fascist demagogue even when specifically instructed to do so most of the time.
+- Fascist Occitania does not have small or medium flags. [Link](https://forum.paradoxplaza.com/forum/threads/fascist-occitania-wrong-flag.1596087/)
 
 ## Australia
 - Australia Support Indonesian Uprising doesn't work. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
@@ -82,6 +86,8 @@
 - Various fixes to the Heraklion Convention. (Credit to Mefisto1029)
 - Event "Communists Seize Power in Greece" Incorrectly Sent to the Soviet Union. [Link](https://forum.paradoxplaza.com/forum/threads/event-communists-seize-power-in-greece-incorrectly-sent-to-soviet-union.1594907/)
 - AI Greece always arrests the king with historical AI focuses off.
+- Edirne does not get renamed to "Thracia" when forming Byzantium.
+- "Balıkesir" does not get renamed to "Palaeokastron" when forming Greater Greece. [Link](https://forum.paradoxplaza.com/forum/threads/greater-greece-decision-renaming-cities.1596368/)
 
 ## Italy
 - Various issues in the Italian Civil War, including
@@ -150,6 +156,8 @@
 - ? Russia will not receive an event if the fascist American country refuses to join the faction through focus Intervention in the Americas.
 - Soviet Union is twice as likely to pick Right Opposition Cooperative in ahistorical mode.
 - Random purges can still be triggered if one is already going to be triggered from Stalin's counter-measure missions.
+- ? Soviet Focus Regional Development add building slots to Qingdao instead of Dushanbe.
+- ? Khakassia is not considered as a Soviet Republic.
 
 ## Spain
 - Various issues in the Spanish Civil War, including
