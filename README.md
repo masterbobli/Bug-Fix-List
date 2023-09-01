@@ -28,6 +28,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - ? Several AI factors that demand other countries to be puppeted/annexed from Poland/Baltics are incorrectly written.
 - AI does not hire advisors who possess the traits of communist revolutionary, democratic reformer, or fascist demagogue even when specifically instructed to do so most of the time.
 - Fascist Occitania does not have small or medium flags. [Link](https://forum.paradoxplaza.com/forum/threads/fascist-occitania-wrong-flag.1596087/)
+- Fixed several misspellings of "snorkol" in the English localisation.
 
 ## Australia
 - Australia Support Indonesian Uprising doesn't work. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
@@ -66,7 +67,9 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - "Disunite Germany" focus does not release Austria as a puppet. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi4-v-1-11-4-b22c-taking-the-focus-disunite-germany-as-france-fails-to-release-austria-as-a-puppet.1504136/)
 - National Focus "Grow the Empire" only gives parts of Belgian Congo to France. [Link](https://forum.paradoxplaza.com/forum/threads/national-focus-grow-the-empire-now-only-gives-parts-of-belgian-congo-to-france.1587416/)
 - ? AI behavior "Democratic - Alternate" is not working. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-french-ai-behavior-democratic-alternate-little-entente-is-not-working.1556634/)
-- ? "Disjointed government" national spirit cannot be removed if the focus "Force the Issue" is bypassed. [Link](https://forum.paradoxplaza.com/forum/threads/france-flipping-ideology-through-election-prevent-the-removal-of-disjointed-government-national-spirit.1595383/#post-29083170)
+- "Disjointed government" national spirit cannot be removed if the focus "Force the Issue" is bypassed. [Link](https://forum.paradoxplaza.com/forum/threads/france-flipping-ideology-through-election-prevent-the-removal-of-disjointed-government-national-spirit.1595383/)
+- Richelieu Class is considered to be a battlecruiser instead of a battleship. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-windows-10-v-1-12-4-aefa-f96e-richelieu-battleship-class-considered-as-a-battlecruiser.1549761/)
+- ? Free France intervention decisions may transfer states not owned by Vichy. [Link](https://forum.paradoxplaza.com/forum/threads/free-france-intervention-focuses-decisions-dont-check-that-states-are-owned-by-vichy.1594800/)
 
 ## Germany
 - Reinstated fascist generals have incorrect portraits. [Link](https://forum.paradoxplaza.com/forum/threads/incorrect-portraits-for-reinstated-nazi-germany-unit-leaders.1592764/)
@@ -80,6 +83,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Germany doesn't get cores on Danzig if Poland agrees to cede Danzig.
 - Typo in event option wtt_germany.20.a
 - ? National Focus Operation Tannenbaum cannot be bypassed due to a broken trigger.
+- ? National Focus Befriend Poland cannot be bypassed due to a broken trigger.
 
 ## Greece
 - "Form Greater Greece" decision is available when Adolfos I becomes the leader.
@@ -88,6 +92,9 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - AI Greece always arrests the king with historical AI focuses off.
 - Edirne does not get renamed to "Thracia" when forming Byzantium.
 - "Balıkesir" does not get renamed to "Palaeokastron" when forming Greater Greece. [Link](https://forum.paradoxplaza.com/forum/threads/greater-greece-decision-renaming-cities.1596368/)
+
+## Hungary
+- ? Focus Reclaim the Empire cannot be taken if the country already controls one of the required states.
 
 ## Italy
 - Various issues in the Italian Civil War, including
@@ -105,6 +112,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Greece/Turkey fails to join the Italian faction in the trade of Dodecanese islands. [Link](https://forum.paradoxplaza.com/forum/threads/greece-turkey-fails-to-join-italian-faction-in-the-trade-of-dodecanese-islands-with-solution.1590557/)
 - Local Ethiopian rulers don't become country leaders if Italy attempts to release subject countries when Ethiopia goes into exile. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-pc-v1-12-2-9ebb-e45c-s-ethiopian-sub-nations-dont-use-unique-portraits.1545774/)
 - ? Ethiopia event "Major Italian Offensive" gets triggered when Italy decides to build up instead of launching a major offensive.
+- ? Gasperi, the Pope, and king Umberto does not have the balance of power changed in focus Proclaim the Italian Empire.
 
 ## India
 - The strength of the Indian civil war does not properly scale with autonomy level.
@@ -126,8 +134,9 @@ Note: the presence of "?" in some entries indicates that there is code implement
 ## Poland
 - Free City of Danzig loses core on Danzig when they rise up against Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-free-city-of-danzig-looses-core-on-danzig-when-they-rise-up-against-poland.1561972/)
 - National focus "Enforce Baltic Socialism" triggers events demanding Poland to become a puppet of itself. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-doing-enforce-baltic-socialism-while-owning-latvia-results-in-poland-demands-submission-from-itself-1-11-1-bf90.1499394/)
-- Many triggers and effects are incorrect in the national focus "Enforce Baltic Socialism" and "Commonwealth of Socialist Republics" don't work.
+- Many triggers and effects in the national focus "Enforce Baltic Socialism" and "Commonwealth of Socialist Republics" don't work.
 - ? Event to demand the return of Otto von Habsburg only removes one variant of the Hungarian Monarchy national spirit.
+- ? Focus "the National Commonwealth" cannot be completed if Lithuania is a puppet of Poland.
 
 ## South Africa
 - Four national focuses on autonomy progress have no requirements. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-focus-south-africa-first-enables-south-africa-to-declare-independence-regardless-of-autonomy.1548439/)
@@ -169,6 +178,9 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Global Defence Council has a duplicate decision to core Balearic Islands and Canary Islands. [Link](https://forum.paradoxplaza.com/forum/threads/duplicate-coring-decisions-for-islas-baleares-and-islas-canarias.1595410/)
 - The national spirit "Popular Front" does not update properly sometimes.
 
+## Switzerland
+- President initiatives modifies stability and war support factor instead of stability and war support.
+
 ## Turkey
 - Can't remove the negative Turkish/Ottoman national spirit "Sectarian Woes." (Note: Only a partial fix for Kurdistan is implemented) [Link](https://forum.paradoxplaza.com/forum/threads/cant-remove-negative-turkish-ottoman-national-spirit-sectarian-woes.1577414/)
 - Turkey's alternate history strategy plan is enabled for all countries.
@@ -188,6 +200,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 ## United Kingdom
 - The portrait of Winston Churchill is abnormal in non-Latin alphabet-based localisation. [Link](https://forum.paradoxplaza.com/forum/threads/protrait-of-winston-churchill-is-abnormal-in-non-latin-alphabet-based-localisation.1586877/)
 - ? The United Kingdom will not have cores on the US states if it reclaimed Canada through an imperialist civil war after forming the Imperial Federation with the North America dominion established. [Link](https://forum.paradoxplaza.com/forum/threads/no-cores-from-imperial-federation.1455596/)
+- Focus secure the Italian alliances will bypass if BBA is not enabled. [Link](https://forum.paradoxplaza.com/forum/threads/the-focus-secure-the-italian-alliance-appears-to-bypass-no-matter-the-status-of-italy.1597338/)
 
 ## USA
 - Conflicting plans prevent the AI United States from changing ideology. [Link](https://forum.paradoxplaza.com/forum/threads/conflicting-plans-prevent-ai-united-states-from-changing-ideology.1590275/)
