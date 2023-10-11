@@ -30,6 +30,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Fascist Occitania does not have small or medium flags. [Link](https://forum.paradoxplaza.com/forum/threads/fascist-occitania-wrong-flag.1596087/)
 - Fixed several misspellings of "snorkol" in the English localisation.
 - Decision "Dismantle the maginot line" does not dismantle forts in Picardy if France extended the maginot line.
+- Generic decision to purchase Soviet Ships don't work. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-cant-purchase-soviet-ships.1554391/)
 
 ## Australia
 - Australia Support Indonesian Uprising does not make Indonesia an Australian puppet. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
@@ -50,16 +51,12 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Warlords cannot bypass focuses in the communist tree that has no effects.
 - Parts of China Mao received after the Chinese United Front is disbanded contain no states.
 
-## Czechoslovakia
-- National spirit "Entente joint planning" are instantly for other countries in the Czech Entente. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-czechoslovakias-entente-joint-planning-spirit-not-working-for-faction-members-1-10-1-dd56.1438840/)
-
 ## Estonia
 - National Focus "Unite the Finnic Identity" doesn't give cores on some states.
 
 ## Ethiopia
 - Decision "Invite Foreign Prospectors" is not visible sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-focus-and-decision-bugged-invite-foreign-prospectors.1546224/)
 - The effect to add VP to the city in Begemder targets a province in Afghanistan. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-the-effect-to-add-vp-to-city-in-begemder-targets-a-province-in-afghanistan.1560699/)
-- Ethiopia can't purchase Soviet ships. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-cant-purchase-soviet-ships.1554391/)
 - AI Italy never agrees to Ethiopian territorial compensation. [Link](https://forum.paradoxplaza.com/forum/threads/ai-italy-never-agrees-to-ethiopian-territorial-compensation.1547749/)
 - Dynamic modifier "Ethiopia Airforce" doesn't have a correct icon when upgraded.
 - Ethiopia doesn't use the unique electrify state icon.
@@ -76,8 +73,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Richelieu Class is considered to be a battlecruiser instead of a battleship. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-windows-10-v-1-12-4-aefa-f96e-richelieu-battleship-class-considered-as-a-battlecruiser.1549761/)
 - ? Free France intervention decisions may transfer states not owned by Vichy. [Link](https://forum.paradoxplaza.com/forum/threads/free-france-intervention-focuses-decisions-dont-check-that-states-are-owned-by-vichy.1594800/)
 - AI France is more likely to cede Indochina to Japan if its at war with a minor country.
-- ? Decision to directly intervene Spanish civil war have no effect if France is communist and AI Spain chooses the anti-stalinist path. 
-- National Focus "Concessions to Italy" and "Ratify the Stresa Front" can not be taken if Italy released AOI as a subject. [Link](https://forum.paradoxplaza.com/forum/threads/french-focuses-concessions-to-italy-and-ratify-the-stresa-front-are-impossible-to-do-99-of-time-because-of-outdated-requirements.1589367/)
+- ? Decision to directly intervene Spanish civil war have no effect if France is communist and AI Spain chooses the anti-stalinist path.
 
 ## Germany
 - Reinstated fascist generals have incorrect portraits. [Link](https://forum.paradoxplaza.com/forum/threads/incorrect-portraits-for-reinstated-nazi-germany-unit-leaders.1592764/)
@@ -88,7 +84,6 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Günther von Kluge may not be the country leader if Wehrmacht is asked to restore order in the SS civil war.
 - Germany doesn't receive the correct cosmetic tag in SS civil war.
 - Freeing Wilhelm II from the Netherlands gives Wilhelm III as country leader. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-as-germany-freeing-wilhelm-ii-from-the-netherlands-gives-wilhelm-iii-as-country-leader.1553489/)
-- Germany doesn't get cores on Danzig if Poland agrees to cede Danzig.
 - Typo in event option `wtt_germany.20.a`.
 - National Focus "Operation Tannenbaum" cannot be bypassed due to a broken trigger. [Link](https://forum.paradoxplaza.com/forum/threads/german-focus-tree-oversight-tannenbaum.1598180/)
 - National Focus "Befriend Poland" cannot be bypassed due to a broken trigger.
@@ -143,7 +138,6 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Focus "Enforce Baltic Socialism" triggers events demanding Poland to become a puppet of itself. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-doing-enforce-baltic-socialism-while-owning-latvia-results-in-poland-demands-submission-from-itself-1-11-1-bf90.1499394/)
 - Many triggers and effects in focus "Enforce Baltic Socialism" and "Commonwealth of Socialist Republics" don't work.
 - ? Event to demand the return of Otto von Habsburg only removes one variant of the Hungarian Monarchy national spirit.
-- Focus "the National Commonwealth" cannot be completed if Lithuania is a puppet of Poland.
 - ? AI Germany is more likely to accept alliance request from Poland if they have a wargoal against Poland
 
 ## South Africa
@@ -167,7 +161,6 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - The Right Opposition can lock itself out of its focus tree. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-right-opposition-can-lock-itself-out-of-its-focus-tree.1545180/)
 - The Soviet Union has a visible operation to infiltrate its own atomic program.
 - The Soviet Union cannot release any country that is not a constituent of the Soviet Union.
-- The tooltip of decision "Merge NKMZ Plant" claims to give more production efficiency cap than it actually does. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-v1-11-4-e26e-b22c-merge-nkmz-plant-doesnt-give-the-correct-max-efficiency.1506979/)
 - Soviet unit leaders may accuse themselves of treason.
 - Yakovlev designer always becomes the first aircraft designer being targeted in a great purge. [Link](https://forum.paradoxplaza.com/forum/threads/fixed-rng-causing-yakovlev-design-bureau-to-be-consistently-targeted-in-the-great-purge.1590971/)
 - ? Russia will not receive an event if the fascist American country refuses to join the faction through focus Intervention in the Americas.
@@ -175,7 +168,6 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Random purges can still be triggered if a great purge is already going to be triggered from Stalin's counter-measure missions.
 - ? Focus "Regional Development" add building slots to Qingdao instead of Dushanbe.
 - ? Khakassia is not considered as a Soviet Republic.
-- ? Soviet Union cannot return Manchuria to Communist China after puppeting Manchuria in peace deal.
 
 ## Spain
 - Various issues in the Spanish Civil War, including
@@ -189,6 +181,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 
 ## Switzerland
 - President initiatives modifies stability and war support factor instead of stability and war support.
+- ? Decision "Seize Fascist Gold" does not appear. [Link](https://forum.paradoxplaza.com/forum/threads/there-is-a-problem-with-the-available-of-the-decision-swi_seize_fascist_gold.1599765/)
 
 ## Turkey
 - Can't remove the negative Turkish/Ottoman national spirit "Sectarian Woes." (Note: Only a partial fix for Kurdistan is implemented) [Link](https://forum.paradoxplaza.com/forum/threads/cant-remove-negative-turkish-ottoman-national-spirit-sectarian-woes.1577414/)
@@ -199,7 +192,6 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - A few issues with the mission "Kurdish Resistance Escalates Anti-Government Efforts." [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-a-few-issues-with-the-mission-kurdish-resistance-escalates-anti-government-efforts-1-10-5-052a.1471676/)
 - Focus "The Pontic Redoubt" appears twice in the Turkish alternate fascist plan. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-focus-tur_the_pontic_redoubt-appeared-twice-in-the-turkish-alternate-fascist-plan-1-10-5-502a.1474310/)
 - Austro-Hungarian Empire does not form or join the faction after completing the focus "Press the Austro-Hungarian Claim". [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-turkish-focus-press-the-austro-hungarian-claim-not-working.1438077/)
-- Focus "The Pan-National Association of Ulemas" could get bypassed sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/turkish-focus-tree-nation-bugs.1592046/)
 - Ataturk will may die twice. [Link](https://forum.paradoxplaza.com/forum/threads/turkish-focus-tree-nation-bugs.1592046/)
 - Unable to removenational spirit "Disorganised Armed Forces" through decisions as Turkey. [Link](https://forum.paradoxplaza.com/forum/threads/unable-to-remove-disorganised-armed-forces-national-spirit-through-decisions-as-turkey.1593204/)
 - ? Ataturk may still be the leader of CHP after passing away. [Link](https://forum.paradoxplaza.com/forum/threads/zombie-ataturk.1591982/)
@@ -217,6 +209,3 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - ? Non-MTG naval OOB starts with duplicate submarines. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-usa-starts-with-extra-submarines-without-mtg.1574789/)
 - ? Decision "Homeland Defense Emergency Act" and both events for the US to return to democracy only remove the initial version of the great depression.
 - Philippines does not have the correct party popularity set. [Link](https://forum.paradoxplaza.com/forum/threads/fix-the-incorrect-display-of-the-popularity-of-philippine-parties.1594613/)
-
-## Yugoslavia
-- Focus "Banat for Support" gives Romania cores on both states. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-the-yugoslavian-focus-banat-for-support-incorrectly-gives-the-romanian-core-v1-12-13-b721.1538876/)
