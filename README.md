@@ -44,12 +44,15 @@ Note: the presence of "?" in some entries indicates that there is code implement
 ## China
 - Dali doesn't have the state modifier "Densely Populated Rural Area". [Link](https://forum.paradoxplaza.com/forum/threads/code-error-in-hearts-of-iron-iv-history-countries-chi-china-txt.1584851/)
 - Decisions "Evacuating Factories" don't work. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-evacuating-factories-china-decisions-still-dont-work-windows-steam-1-11-11-2eb0-8e75.1530192/)
-- Focus "Dominate Japan" and "Integrate Tibet" can still be taken when being a puppet.
+- Focus "Dominate Japan" and "Integrate Tibet" can still be taken when being a puppet. [Link](https://forum.paradoxplaza.com/forum/threads/communist-china-puppeted-my-japanese-puppet.1601815/)
 
 ## Communist China
 - The hidden event that ages Mao Zedong doesn't work. [Link](https://forum.paradoxplaza.com/forum/threads/cant-get-the-people-have-stood-up-achievment.1580470/)
 - Warlords cannot bypass focuses in the communist tree that has no effects.
 - Parts of China Mao received after the Chinese United Front is disbanded contain no states.
+
+## Denmark
+- Focus "Reintegrate Iceland" sends incorrect event to Iceland's overlord. [Link](https://forum.paradoxplaza.com/forum/threads/danish-reintegrate-island-focus-give-wrong-event-to-icelands-overlord.1614333/)
 
 ## Estonia
 - National Focus "Unite the Finnic Identity" doesn't give cores on some states.
@@ -61,7 +64,6 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Dynamic modifier "Ethiopia Airforce" doesn't have a correct icon when upgraded.
 - Ethiopia doesn't use the unique electrify state icon.
 - Event "Economic Boom in (State)" does not increase building slot factor.
-- Ethiopia led by Haile Selassie will also transfer states to Italy after winning the fascist civil war.
 - The event to inform Ethiopia that Italy starts major offensive/build up does not trigger.
 - Event "Major Italian Offensive" is triggered when Italy decides to build up.
 
@@ -73,7 +75,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Richelieu Class is considered to be a battlecruiser instead of a battleship. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-windows-10-v-1-12-4-aefa-f96e-richelieu-battleship-class-considered-as-a-battlecruiser.1549761/)
 - ? Free France intervention decisions may transfer states not owned by Vichy. [Link](https://forum.paradoxplaza.com/forum/threads/free-france-intervention-focuses-decisions-dont-check-that-states-are-owned-by-vichy.1594800/)
 - AI France is more likely to cede Indochina to Japan if its at war with a minor country.
-- ? Decision to directly intervene Spanish civil war have no effect if France is communist and AI Spain chooses the anti-stalinist path.
+- Decision to directly intervene Spanish civil war have no effect if France is communist and AI Spain chooses the anti-stalinist path.
 
 ## Germany
 - Reinstated fascist generals have incorrect portraits. [Link](https://forum.paradoxplaza.com/forum/threads/incorrect-portraits-for-reinstated-nazi-germany-unit-leaders.1592764/)
@@ -87,7 +89,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Typo in event option `wtt_germany.20.a`.
 - National Focus "Operation Tannenbaum" cannot be bypassed due to a broken trigger. [Link](https://forum.paradoxplaza.com/forum/threads/german-focus-tree-oversight-tannenbaum.1598180/)
 - National Focus "Befriend Poland" cannot be bypassed due to a broken trigger.
-- ? Decision "Dismantle the Maginot Line" does not remove forts in Picardy if France extended the Maginot Line.
+- Decision "Dismantle the Maginot Line" does not remove forts in Picardy if France extended the Maginot Line.
 
 ## Greece
 - Decision "Form Greater Greece" is available when Adolfos I becomes the leader.
@@ -111,10 +113,11 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Kingdom of Bosporus cannot be established if Crimea controls one of the required states.
 - Duplicate bonus for the production cost of heavy tanks in the Italian focus tree. [Link](https://forum.paradoxplaza.com/forum/threads/missing-bonuses-for-italian-military-industry.1592898/)
 - Focus "Corpo di Truppe Volontarie" can be bypassed before the Spanish civil war begins. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ita-corpo-di-truppe-volontarie-bypasses-if-the-focus-foreign-affairs-has-been-completed-before-the-spanish-civil-war.1562143/)
-- Mussolini can come to power again after being deposed through focus.
+- Mussolini can come to power again after being deposed through focus. [Link](https://forum.paradoxplaza.com/forum/threads/italy-deposed-mussolini-returns-to-power.1619054/)
 - Greece/Turkey fails to join the Italian faction in the trade of Dodecanese islands. [Link](https://forum.paradoxplaza.com/forum/threads/greece-turkey-fails-to-join-italian-faction-in-the-trade-of-dodecanese-islands-with-solution.1590557/)
 - Local Ethiopian rulers don't become country leaders if Italy attempts to release subject countries when Ethiopia goes into exile. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-pc-v1-12-2-9ebb-e45c-s-ethiopian-sub-nations-dont-use-unique-portraits.1545774/)
-- Gasperi, the Pope, and king Umberto does not have the balance of power changed in focus Proclaim the Italian Empire.
+- Gasperi, the Pope, and King Umberto do not have the balance of power changed in focus Proclaim the Italian Empire.
+- National Spirit "Italian Hegemony" does not have an icon. [Link](https://forum.paradoxplaza.com/forum/threads/puppet-cost-factor-modifier-not-working.1621684/)
 
 ## India
 - The strength of the Indian civil war does not properly scale with autonomy level.
@@ -125,6 +128,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 ## Lithuania
 - Focus "Request Polish occupation" transfers ownership of occupied Polish states while transferring the occupation of owned Polish states.
 - Bolesław Piasecki doesn't become the country leader of Lithuanian Poland.
+- Focus "Restore Greater Lithuania" cannot be started after taking the decision "Re-form the commonwealth". [Link](https://forum.paradoxplaza.com/forum/threads/playing-as-lithuania-cant-complete-a-focus-because-of-a-bug.1620641/)
 
 ## Latvia
 - "Ignite the [Country] Civil War" decision only targets Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-latvias-ignite-civil-war-decisions-do-not-work-v1-11-2-a194-7844.1499979/)
@@ -133,15 +137,19 @@ Note: the presence of "?" in some entries indicates that there is code implement
 ## Manchukuo
 - Aisin Gioro Puyi loses the Nationalist Symbol trait when the Chinese Empire is formed. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-aisin-gioro-puyi-loses-nationalist-symbol-trait-when-chinese-empire-is-formed.1574405/)
 
+## Norway
+- The response to the event "Norway is seeking investments" doesn't fire. [Link](https://forum.paradoxplaza.com/forum/threads/as-norway-no-event-happens-when-complete-invite-foreign-investment-focus.1607316/)
+
 ## Poland
 - Free City of Danzig loses core on Danzig when they rise up against Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-free-city-of-danzig-looses-core-on-danzig-when-they-rise-up-against-poland.1561972/)
 - Focus "Enforce Baltic Socialism" triggers events demanding Poland to become a puppet of itself. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-doing-enforce-baltic-socialism-while-owning-latvia-results-in-poland-demands-submission-from-itself-1-11-1-bf90.1499394/)
 - Many triggers and effects in focus "Enforce Baltic Socialism" and "Commonwealth of Socialist Republics" don't work.
 - ? Event to demand the return of Otto von Habsburg only removes one variant of the Hungarian Monarchy national spirit.
-- ? AI Germany is more likely to accept alliance request from Poland if they have a wargoal against Poland
+- ? AI Germany is more likely to accept alliance request from Poland if they have a wargoal against Poland.
+- Focus "Lithuanian Ultimatum" gives Poland a wargoal against themselves if Lithuania refuses. [Link](https://forum.paradoxplaza.com/forum/threads/polands-ultimatum-to-lithuania-leads-to-wargoal-on-itself-when-refused.1619175/)
 
 ## South Africa
-- Four national focuses on autonomy progress have no requirements. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-focus-south-africa-first-enables-south-africa-to-declare-independence-regardless-of-autonomy.1548439/)
+- Four national focuses that requires autonomy progress can still be taken when the condition is not met. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-focus-south-africa-first-enables-south-africa-to-declare-independence-regardless-of-autonomy.1548439/)
 
 ## Soviet Union
 - Various issues in the Soviet Civil War, including
@@ -166,8 +174,8 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - ? Russia will not receive an event if the fascist American country refuses to join the faction through focus Intervention in the Americas.
 - Soviet Union is twice as likely to pick "Right Opposition Cooperative" path in ahistorical mode.
 - Random purges can still be triggered if a great purge is already going to be triggered from Stalin's counter-measure missions.
-- ? Focus "Regional Development" add building slots to Qingdao instead of Dushanbe.
-- ? Khakassia is not considered as a Soviet Republic.
+- Focus "Regional Development" add building slots to Qingdao instead of Dushanbe.
+- Khakassia is not considered as a Soviet Republic.
 
 ## Spain
 - Various issues in the Spanish Civil War, including
@@ -178,6 +186,11 @@ Note: the presence of "?" in some entries indicates that there is code implement
  - Province modifier "Autonomous State" doesn't get removed when countries are released as free. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-sakhalin-and-the-kuril-islands-dont-cored-by-ussr-v1-12-13-e502.1500386/)
 - Global Defence Council has a duplicate decision to core Balearic Islands and Canary Islands. [Link](https://forum.paradoxplaza.com/forum/threads/duplicate-coring-decisions-for-islas-baleares-and-islas-canarias.1595410/)
 - National spirit "Popular Front" does not update properly sometimes.
+
+## Sweden
+- Focus "Support Norwegian Communists" bypasses when Norway takes a non-communist path.
+- AI Sweden Activates all strategy plans when "Historical AI Focuses" is disabled. [Link](https://forum.paradoxplaza.com/forum/threads/ai-sweden-activates-all-strategy-plans-when-historical-ai-focuses-is-disabled.1603272/)
+- AI frequently rejects invitations to Scandinavian Defense Union. [Link](https://forum.paradoxplaza.com/forum/threads/scandinavian-defense-union-ai-chance-is-broken.1602981/)
 
 ## Switzerland
 - President initiatives modifies stability and war support factor instead of stability and war support.
@@ -193,10 +206,11 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Focus "The Pontic Redoubt" appears twice in the Turkish alternate fascist plan. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-focus-tur_the_pontic_redoubt-appeared-twice-in-the-turkish-alternate-fascist-plan-1-10-5-502a.1474310/)
 - Austro-Hungarian Empire does not form or join the faction after completing the focus "Press the Austro-Hungarian Claim". [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-turkish-focus-press-the-austro-hungarian-claim-not-working.1438077/)
 - Ataturk will may die twice. [Link](https://forum.paradoxplaza.com/forum/threads/turkish-focus-tree-nation-bugs.1592046/)
-- Unable to removenational spirit "Disorganised Armed Forces" through decisions as Turkey. [Link](https://forum.paradoxplaza.com/forum/threads/unable-to-remove-disorganised-armed-forces-national-spirit-through-decisions-as-turkey.1593204/)
+- Unable to remove national spirit "Disorganised Armed Forces" through decisions as Turkey. [Link](https://forum.paradoxplaza.com/forum/threads/unable-to-remove-disorganised-armed-forces-national-spirit-through-decisions-as-turkey.1593204/)
 - ? Ataturk may still be the leader of CHP after passing away. [Link](https://forum.paradoxplaza.com/forum/threads/zombie-ataturk.1591982/)
 - Focus "Reclaim the Makedonyalı Sanjak" cannot be bypassed due to a broken trigger.
 - Focus "Reinstate the Darülfünûn-u Şahâne" can be bypassed if you're not in a faction.
+- Decisions to reform the Ottoman Empire does not appear without Waking the Tiger DLC. [Link](https://forum.paradoxplaza.com/forum/threads/bftb-no-reform-the-ottoman-empire-decision-after-focus-reclaim-the-fallen-empire.1620183/)
 
 ## United Kingdom
 - The portrait of Winston Churchill is abnormal in non-Latin alphabet-based localisation. [Link](https://forum.paradoxplaza.com/forum/threads/protrait-of-winston-churchill-is-abnormal-in-non-latin-alphabet-based-localisation.1586877/)
