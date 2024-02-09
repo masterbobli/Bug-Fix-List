@@ -31,9 +31,11 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Fixed several misspellings of "snorkol" in the English localisation.
 - Decision "Dismantle the maginot line" does not dismantle forts in Picardy if France extended the maginot line.
 - Generic decision to purchase Soviet Ships don't work. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-cant-purchase-soviet-ships.1554391/)
+- ? Lend lease tension modifier for satellites are incorrect. [Link](https://forum.paradoxplaza.com/forum/threads/typo-in-satellite-txt.1602757/)
 
 ## Australia
-- Australia Support Indonesian Uprising does not make Indonesia an Australian puppet. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
+- Focus "Support Indonesian Uprising" does not make Indonesia an Australian puppet. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
+- Event to protect Malaysia changes the state controller to Malaysia instead of their current controller. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-commonwealth-dominions-focus-tree-territorial-transfer-should-check-controller-first.1573754/)
 
 ## Baltic
 - "Forest Brothers" divisions don't spawn in Baltic shared communist civil war. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-steam-v1-11-4-e26e-b22c-blatic-shared-communist-civil-war-not-working-as-intended.1505469/)
@@ -53,6 +55,9 @@ Note: the presence of "?" in some entries indicates that there is code implement
 
 ## Denmark
 - Focus "Reintegrate Iceland" sends incorrect event to Iceland's overlord. [Link](https://forum.paradoxplaza.com/forum/threads/danish-reintegrate-island-focus-give-wrong-event-to-icelands-overlord.1614333/)
+- The option to elect the communist party through motion of no confidence have no localisation.
+- Decision "Exile the Royal Family" can be repeated for infinitely many times with no cooldown.
+- Denmark is still the controller of Greenland in Nordics Fragmented game rule. [Link](https://forum.paradoxplaza.com/forum/threads/greenland-controlled-by-denmark-in-nordics-fragmented-game-rule.1618322/)
 
 ## Estonia
 - National Focus "Unite the Finnic Identity" doesn't give cores on some states.
@@ -66,6 +71,9 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Event "Economic Boom in (State)" does not increase building slot factor.
 - The event to inform Ethiopia that Italy starts major offensive/build up does not trigger.
 - Event "Major Italian Offensive" is triggered when Italy decides to build up.
+
+## Finland
+- Decision "Call to Union Activism" does not decrease stability.
 
 ## France
 - Focus "Disunite Germany" does not release Austria as a puppet. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi4-v-1-11-4-b22c-taking-the-focus-disunite-germany-as-france-fails-to-release-austria-as-a-puppet.1504136/)
@@ -118,6 +126,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Local Ethiopian rulers don't become country leaders if Italy attempts to release subject countries when Ethiopia goes into exile. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-pc-v1-12-2-9ebb-e45c-s-ethiopian-sub-nations-dont-use-unique-portraits.1545774/)
 - Gasperi, the Pope, and King Umberto do not have the balance of power changed in focus Proclaim the Italian Empire.
 - National Spirit "Italian Hegemony" does not have an icon. [Link](https://forum.paradoxplaza.com/forum/threads/puppet-cost-factor-modifier-not-working.1621684/)
+- The civil war triggered from BOP doesn't start resistance in Fascist Italy.
 
 ## India
 - The strength of the Indian civil war does not properly scale with autonomy level.
@@ -139,6 +148,9 @@ Note: the presence of "?" in some entries indicates that there is code implement
 
 ## Norway
 - The response to the event "Norway is seeking investments" doesn't fire. [Link](https://forum.paradoxplaza.com/forum/threads/as-norway-no-event-happens-when-complete-invite-foreign-investment-focus.1607316/)
+- The Queen can never become the country leader.
+- Focus "A Valuable Partner to Germany" gives all controlled Norwegian states to democratic Norway. [Link](https://forum.paradoxplaza.com/forum/threads/focus-a-valuable-partner-to-germany-gives-all-controlled-norwegian-states-to-democratic-norway.1601987/)
+- Focus "Norwegian Reichsprotectorate" and "A Valuable Partner to Germany" have inconsistent available conditions. [Link](https://forum.paradoxplaza.com/forum/threads/stella-polaris-patch-1-13-6-open-beta-checksum-4b5c.1614149/post-29305570)
 
 ## Poland
 - Free City of Danzig loses core on Danzig when they rise up against Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-free-city-of-danzig-looses-core-on-danzig-when-they-rise-up-against-poland.1561972/)
@@ -147,6 +159,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - ? Event to demand the return of Otto von Habsburg only removes one variant of the Hungarian Monarchy national spirit.
 - ? AI Germany is more likely to accept alliance request from Poland if they have a wargoal against Poland.
 - Focus "Lithuanian Ultimatum" gives Poland a wargoal against themselves if Lithuania refuses. [Link](https://forum.paradoxplaza.com/forum/threads/polands-ultimatum-to-lithuania-leads-to-wargoal-on-itself-when-refused.1619175/)
+- Poland sets an invalid cosmetic tag for monarchist Lithuania.[Link](https://forum.paradoxplaza.com/forum/threads/poland-sets-wrong-cosmetic-tag-for-monarchist-lithuania.1615617/)
 
 ## South Africa
 - Four national focuses that requires autonomy progress can still be taken when the condition is not met. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-focus-south-africa-first-enables-south-africa-to-declare-independence-regardless-of-autonomy.1548439/)
@@ -176,6 +189,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Random purges can still be triggered if a great purge is already going to be triggered from Stalin's counter-measure missions.
 - Focus "Regional Development" add building slots to Qingdao instead of Dushanbe.
 - Khakassia is not considered as a Soviet Republic.
+- Focus "The Common Economic Space Initiative" adds Russian subjects to comicon sharing group. [Link](https://forum.paradoxplaza.com/forum/threads/1-13-5-non-communist-version-of-sov-comecon-focus-adds-countries-to-two-tech-sharing-groups.1615521/)
 
 ## Spain
 - Various issues in the Spanish Civil War, including
@@ -191,6 +205,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Focus "Support Norwegian Communists" bypasses when Norway takes a non-communist path.
 - AI Sweden Activates all strategy plans when "Historical AI Focuses" is disabled. [Link](https://forum.paradoxplaza.com/forum/threads/ai-sweden-activates-all-strategy-plans-when-historical-ai-focuses-is-disabled.1603272/)
 - AI frequently rejects invitations to Scandinavian Defense Union. [Link](https://forum.paradoxplaza.com/forum/threads/scandinavian-defense-union-ai-chance-is-broken.1602981/)
+- The tooltip of the focus "Reichsprotectorate Nordland" does not include Pechora as a target for state transfer. [Link](https://forum.paradoxplaza.com/forum/threads/tooltip-error-in-swedish-focus-reichsprotectorate-nordland.1617042/)
 
 ## Switzerland
 - President initiatives modifies stability and war support factor instead of stability and war support.
