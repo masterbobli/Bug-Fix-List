@@ -11,7 +11,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - AI will ignores all subsequent modifiers when setting the `ai_chance` value to be `factor = 0`. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-setting-factor-0-in-ai_chance-ignores-the-modifiers-1-10-5-502a.1468930/)
 - German civil war overrides the play-set AI behavior of the UK and Italy to follow the historical path. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-german-civil-war-overrides-the-play-set-ai-behavior-of-uk-and-italy-to-follow-the-historical-path.1561968/)
 - Some intended permanent move of capitals could move back to the former location after recapturing the former capital.
-- ? Decision "Industrial Land Appropriation" pops up when no slots can actually be added. [Link](https://forum.paradoxplaza.com/forum/threads/industrial-land-appropriation-pops-up-if-you-have-no-states-with-5-5-infra-but-only-takes-stab-and-ws-adding-no-slot.1583429/)
+- Decision "Industrial Land Appropriation" pops up when no slots can actually be added. [Link](https://forum.paradoxplaza.com/forum/threads/industrial-land-appropriation-pops-up-if-you-have-no-states-with-5-5-infra-but-only-takes-stab-and-ws-adding-no-slot.1583429/)
 - Doctrine "Naval Strike Torpedo Tactics" in the Operational Integrity tree is miscategorized as a doctrine from the Battlefield Support tree. [Link](https://forum.paradoxplaza.com/forum/threads/doctrine-cost-bonus-from-theorist-not-applied.1590381/)
 - Non-existent dynamic tags can be valid collaboration government targets.
 - Collaboration government creates a dynamic tag even when the original tag can be released.
@@ -31,7 +31,11 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Fixed several misspellings of "snorkol" in the English localisation.
 - Decision "Dismantle the maginot line" does not dismantle forts in Picardy if France extended the maginot line.
 - Generic decision to purchase Soviet Ships don't work. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-cant-purchase-soviet-ships.1554391/)
-- ? Lend lease tension modifier for satellites are incorrect. [Link](https://forum.paradoxplaza.com/forum/threads/typo-in-satellite-txt.1602757/)
+- Lend lease tension limit modifier for satellites are incorrect. [Link](https://forum.paradoxplaza.com/forum/threads/typo-in-satellite-txt.1602757/)
+- Von Falkenhausen is still available as a unit leader for China after being recalled. [Link](https://forum.paradoxplaza.com/forum/threads/china-kuomintang-alexander-von-falkenhausen.1621612/)
+- Added some missing advisors for Nicaragua. [Link](https://forum.paradoxplaza.com/forum/threads/open-beta-patch-1-11-4-steam-only-updated-mk4-checksum-b22c.1499991/post-27958293)
+- ? 
+Selecting a spirit of the academy that increases army leader skills during level-up prevents spirits of naval academy from increasing admiral skills during level-up. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-11-12-82b4-22d5-possible-faulty-logic-used-for-spirit-effects-on-characters-leveling-up.1535518/)
 
 ## Australia
 - Focus "Support Indonesian Uprising" does not make Indonesia an Australian puppet. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
@@ -58,6 +62,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - The option to elect the communist party through motion of no confidence have no localisation.
 - Decision "Exile the Royal Family" can be repeated for infinitely many times with no cooldown.
 - Denmark is still the controller of Greenland in Nordics Fragmented game rule. [Link](https://forum.paradoxplaza.com/forum/threads/greenland-controlled-by-denmark-in-nordics-fragmented-game-rule.1618322/)
+- Event "King Kristian X Dies" will only trigger when Thorvald Stauning is alive instead of the king himself being alive.
 
 ## Estonia
 - National Focus "Unite the Finnic Identity" doesn't give cores on some states.
@@ -74,11 +79,12 @@ Note: the presence of "?" in some entries indicates that there is code implement
 
 ## Finland
 - Decision "Call to Union Activism" does not decrease stability.
+- ? Research "Synthetic Oil Experiments" does not add synthetic refineries promosied in focus "Tire factory at Nokia" if the player does not own AAT DLC. [Link](https://forum.paradoxplaza.com/forum/threads/finland-tire-factory-at-nokia-focus-is-broken.1602314/)
 
 ## France
 - Focus "Disunite Germany" does not release Austria as a puppet. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi4-v-1-11-4-b22c-taking-the-focus-disunite-germany-as-france-fails-to-release-austria-as-a-puppet.1504136/)
 - Focus "Grow the Empire" only gives parts of Belgian Congo to France. [Link](https://forum.paradoxplaza.com/forum/threads/national-focus-grow-the-empire-now-only-gives-parts-of-belgian-congo-to-france.1587416/)
-- ? AI behavior "Democratic - Alternate" is not working. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-french-ai-behavior-democratic-alternate-little-entente-is-not-working.1556634/)
+- AI behavior "Democratic - Alternate" is not working. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-french-ai-behavior-democratic-alternate-little-entente-is-not-working.1556634/)
 - National spirit "Disjointed government" cannot be removed if focus "Force the Issue" is bypassed. [Link](https://forum.paradoxplaza.com/forum/threads/france-flipping-ideology-through-election-prevent-the-removal-of-disjointed-government-national-spirit.1595383/)
 - Richelieu Class is considered to be a battlecruiser instead of a battleship. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-windows-10-v-1-12-4-aefa-f96e-richelieu-battleship-class-considered-as-a-battlecruiser.1549761/)
 - ? Free France intervention decisions may transfer states not owned by Vichy. [Link](https://forum.paradoxplaza.com/forum/threads/free-france-intervention-focuses-decisions-dont-check-that-states-are-owned-by-vichy.1594800/)
@@ -138,6 +144,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Focus "Request Polish occupation" transfers ownership of occupied Polish states while transferring the occupation of owned Polish states.
 - Bolesław Piasecki doesn't become the country leader of Lithuanian Poland.
 - Focus "Restore Greater Lithuania" cannot be started after taking the decision "Re-form the commonwealth". [Link](https://forum.paradoxplaza.com/forum/threads/playing-as-lithuania-cant-complete-a-focus-because-of-a-bug.1620641/)
+- Focus "Offer Basing Rights" grants basing rights to the country named as the true enemy. [Link](https://forum.paradoxplaza.com/forum/threads/lithuanias-appeasement-branch-is-broken.1613420/)
 
 ## Latvia
 - "Ignite the [Country] Civil War" decision only targets Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-latvias-ignite-civil-war-decisions-do-not-work-v1-11-2-a194-7844.1499979/)
@@ -146,11 +153,20 @@ Note: the presence of "?" in some entries indicates that there is code implement
 ## Manchukuo
 - Aisin Gioro Puyi loses the Nationalist Symbol trait when the Chinese Empire is formed. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-aisin-gioro-puyi-loses-nationalist-symbol-trait-when-chinese-empire-is-formed.1574405/)
 
+## Mexico
+- All fascist or non-aligned political leaders joins Cedillo's rebellion. [Link](https://forum.paradoxplaza.com/forum/threads/losing-plutarco-calles-if-there-is-a-civil-war.1615468/)
+- Pre-determined rebel unit commanders don't appear. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-mexicos-characters-have-generic-portraits-arent-assigned-properly-or-are-missing-entirely.1503348/)
+
 ## Norway
 - The response to the event "Norway is seeking investments" doesn't fire. [Link](https://forum.paradoxplaza.com/forum/threads/as-norway-no-event-happens-when-complete-invite-foreign-investment-focus.1607316/)
 - The Queen can never become the country leader.
 - Focus "A Valuable Partner to Germany" gives all controlled Norwegian states to democratic Norway. [Link](https://forum.paradoxplaza.com/forum/threads/focus-a-valuable-partner-to-germany-gives-all-controlled-norwegian-states-to-democratic-norway.1601987/)
 - Focus "Norwegian Reichsprotectorate" and "A Valuable Partner to Germany" have inconsistent available conditions. [Link](https://forum.paradoxplaza.com/forum/threads/stella-polaris-patch-1-13-6-open-beta-checksum-4b5c.1614149/post-29305570)
+- AI Norway never take the decision to invite fascist countries to invade Norway.
+- AI Norway never take the decision "Prop Up the Economy".
+- Prince Olav of Norway does not have the correct portrait as an advisor. [Link](https://forum.paradoxplaza.com/forum/threads/the-portrait-for-prince-olav-of-norway-when-given-a-chief-of-army-trait-does-not-properly-show-up-in-the-military-staff-selection-area-however-remain.1622572/)
+- Event "Vote of No Confidence" does not change the name of the ruling party. [Link](https://forum.paradoxplaza.com/forum/threads/norwegian-party-name-doesnt-change.1609323/)
+- Focus "Compromize with the NKP" grants an opinion modifier to themselves if Soviet Union takes the left opposition.
 
 ## Poland
 - Free City of Danzig loses core on Danzig when they rise up against Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-free-city-of-danzig-looses-core-on-danzig-when-they-rise-up-against-poland.1561972/)
@@ -160,6 +176,11 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - ? AI Germany is more likely to accept alliance request from Poland if they have a wargoal against Poland.
 - Focus "Lithuanian Ultimatum" gives Poland a wargoal against themselves if Lithuania refuses. [Link](https://forum.paradoxplaza.com/forum/threads/polands-ultimatum-to-lithuania-leads-to-wargoal-on-itself-when-refused.1619175/)
 - Poland sets an invalid cosmetic tag for monarchist Lithuania.[Link](https://forum.paradoxplaza.com/forum/threads/poland-sets-wrong-cosmetic-tag-for-monarchist-lithuania.1615617/)
+- Piasecki becomes ruler of the fascist party in Sanation Right Poland spawned from civil war.
+- Starting the civil war as Sanationist Poland prevents Poland from progressing in focus tree. [Link](https://forum.paradoxplaza.com/forum/threads/poland-focus-tree-uncompletable.1531873/)
+
+## Romania
+- Focus "Invite German Advisors" gives Romania military access to Germany. [Link](https://forum.paradoxplaza.com/forum/threads/romanian-focus-invite-german-advisors-gives-military-access-to-a-wrong-country.1624061/)
 
 ## South Africa
 - Four national focuses that requires autonomy progress can still be taken when the condition is not met. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-focus-south-africa-first-enables-south-africa-to-declare-independence-regardless-of-autonomy.1548439/)
@@ -206,6 +227,9 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - AI Sweden Activates all strategy plans when "Historical AI Focuses" is disabled. [Link](https://forum.paradoxplaza.com/forum/threads/ai-sweden-activates-all-strategy-plans-when-historical-ai-focuses-is-disabled.1603272/)
 - AI frequently rejects invitations to Scandinavian Defense Union. [Link](https://forum.paradoxplaza.com/forum/threads/scandinavian-defense-union-ai-chance-is-broken.1602981/)
 - The tooltip of the focus "Reichsprotectorate Nordland" does not include Pechora as a target for state transfer. [Link](https://forum.paradoxplaza.com/forum/threads/tooltip-error-in-swedish-focus-reichsprotectorate-nordland.1617042/)
+- Event of Sweden claiming Finland as a German puppet state has an incorrect option name.
+- Focus "Reichsprotectorate Nordland" does not give Sweden the correct country name.
+- Completing the focus "The New Order" during the civil war results in Fascist Sweden being annexed. [Link](https://forum.paradoxplaza.com/forum/threads/swedish-fascist-path.1614770/)
 
 ## Switzerland
 - President initiatives modifies stability and war support factor instead of stability and war support.
@@ -229,7 +253,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 
 ## United Kingdom
 - The portrait of Winston Churchill is abnormal in non-Latin alphabet-based localisation. [Link](https://forum.paradoxplaza.com/forum/threads/protrait-of-winston-churchill-is-abnormal-in-non-latin-alphabet-based-localisation.1586877/)
-- ? The United Kingdom will not have cores on the US states if it reclaimed Canada through an imperialist civil war after forming the Imperial Federation with the North America dominion established. [Link](https://forum.paradoxplaza.com/forum/threads/no-cores-from-imperial-federation.1455596/)
+- The United Kingdom will not have cores on the US states if it reclaimed Canada through an imperialist civil war after forming the Imperial Federation with the North America dominion established. [Link](https://forum.paradoxplaza.com/forum/threads/no-cores-from-imperial-federation.1455596/)
 - Focus "Secure the Italian alliances" will bypass if BBA is not enabled. [Link](https://forum.paradoxplaza.com/forum/threads/the-focus-secure-the-italian-alliance-appears-to-bypass-no-matter-the-status-of-italy.1597338/)
 
 ## USA
@@ -238,3 +262,8 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - ? Non-MTG naval OOB starts with duplicate submarines. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-usa-starts-with-extra-submarines-without-mtg.1574789/)
 - ? Decision "Homeland Defense Emergency Act" and both events for the US to return to democracy only remove the initial version of the great depression.
 - Philippines does not have the correct party popularity set. [Link](https://forum.paradoxplaza.com/forum/threads/fix-the-incorrect-display-of-the-popularity-of-philippine-parties.1594613/)
+
+## Yugoslavia
+- Nikola Mandic does not appear in game. [Link](https://forum.paradoxplaza.com/forum/threads/open-beta-patch-1-11-4-steam-only-updated-mk4-checksum-b22c.1499991/post-27958293)
+- Peter's coup will result in Belgrade being transferred to the Rebels.
+- Prince Paul's trait "Collaborator King" is not added through event triggered by focus "Coronation". [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-yugoslavia-collaborator-king-traits-not-present-b22c.1503835/)
