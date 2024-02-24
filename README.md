@@ -34,8 +34,7 @@ Note: the presence of "?" in some entries indicates that there is code implement
 - Lend lease tension limit modifier for satellites are incorrect. [Link](https://forum.paradoxplaza.com/forum/threads/typo-in-satellite-txt.1602757/)
 - Von Falkenhausen is still available as a unit leader for China after being recalled. [Link](https://forum.paradoxplaza.com/forum/threads/china-kuomintang-alexander-von-falkenhausen.1621612/)
 - Added some missing advisors for Nicaragua. [Link](https://forum.paradoxplaza.com/forum/threads/open-beta-patch-1-11-4-steam-only-updated-mk4-checksum-b22c.1499991/post-27958293)
-- ? 
-Selecting a spirit of the academy that increases army leader skills during level-up prevents spirits of naval academy from increasing admiral skills during level-up. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-11-12-82b4-22d5-possible-faulty-logic-used-for-spirit-effects-on-characters-leveling-up.1535518/)
+- ? Selecting a spirit of the academy that increases army leader skills during level-up prevents spirits of naval academy from increasing admiral skills during level-up. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-11-12-82b4-22d5-possible-faulty-logic-used-for-spirit-effects-on-characters-leveling-up.1535518/)
 
 ## Australia
 - Focus "Support Indonesian Uprising" does not make Indonesia an Australian puppet. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
@@ -167,6 +166,8 @@ Selecting a spirit of the academy that increases army leader skills during level
 - Prince Olav of Norway does not have the correct portrait as an advisor. [Link](https://forum.paradoxplaza.com/forum/threads/the-portrait-for-prince-olav-of-norway-when-given-a-chief-of-army-trait-does-not-properly-show-up-in-the-military-staff-selection-area-however-remain.1622572/)
 - Event "Vote of No Confidence" does not change the name of the ruling party. [Link](https://forum.paradoxplaza.com/forum/threads/norwegian-party-name-doesnt-change.1609323/)
 - Focus "Compromize with the NKP" grants an opinion modifier to themselves if Soviet Union takes the left opposition.
+- Focus "Squash Dissent" does not enable Jonas Lie as an advisor in communist Norway. [Link](https://forum.paradoxplaza.com/forum/threads/jonas-lie.1621024/#post-29394140)
+- Jonas Lie is available as a chief of army in the tooltip of focus "Squash Dissent". [Link](https://forum.paradoxplaza.com/forum/threads/jonas-lie.1621024/#post-29394140)
 
 ## Poland
 - Free City of Danzig loses core on Danzig when they rise up against Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-free-city-of-danzig-looses-core-on-danzig-when-they-rise-up-against-poland.1561972/)
@@ -227,9 +228,10 @@ Selecting a spirit of the academy that increases army leader skills during level
 - AI Sweden Activates all strategy plans when "Historical AI Focuses" is disabled. [Link](https://forum.paradoxplaza.com/forum/threads/ai-sweden-activates-all-strategy-plans-when-historical-ai-focuses-is-disabled.1603272/)
 - AI frequently rejects invitations to Scandinavian Defense Union. [Link](https://forum.paradoxplaza.com/forum/threads/scandinavian-defense-union-ai-chance-is-broken.1602981/)
 - The tooltip of the focus "Reichsprotectorate Nordland" does not include Pechora as a target for state transfer. [Link](https://forum.paradoxplaza.com/forum/threads/tooltip-error-in-swedish-focus-reichsprotectorate-nordland.1617042/)
-- Event of Sweden claiming Finland as a German puppet state has an incorrect option name.
+- News event "Sweden claims Finnish land" has an incorrect option name.
 - Focus "Reichsprotectorate Nordland" does not give Sweden the correct country name.
 - Completing the focus "The New Order" during the civil war results in Fascist Sweden being annexed. [Link](https://forum.paradoxplaza.com/forum/threads/swedish-fascist-path.1614770/)
+- The old consumer goods formula is used to calculate research and production efficiency bonuses from Folkhemmet.
 
 ## Switzerland
 - President initiatives modifies stability and war support factor instead of stability and war support.
@@ -255,6 +257,7 @@ Selecting a spirit of the academy that increases army leader skills during level
 - The portrait of Winston Churchill is abnormal in non-Latin alphabet-based localisation. [Link](https://forum.paradoxplaza.com/forum/threads/protrait-of-winston-churchill-is-abnormal-in-non-latin-alphabet-based-localisation.1586877/)
 - The United Kingdom will not have cores on the US states if it reclaimed Canada through an imperialist civil war after forming the Imperial Federation with the North America dominion established. [Link](https://forum.paradoxplaza.com/forum/threads/no-cores-from-imperial-federation.1455596/)
 - Focus "Secure the Italian alliances" will bypass if BBA is not enabled. [Link](https://forum.paradoxplaza.com/forum/threads/the-focus-secure-the-italian-alliance-appears-to-bypass-no-matter-the-status-of-italy.1597338/)
+- Focus "The Burma Road" overlaps the focus "Secure the Imperial Shipping Routes". [Link](https://forum.paradoxplaza.com/forum/threads/secure-the-imperial-shipping-routes-hidden-behind-burma-road-stella-polaris-1-13-2-3d3a-0fae.1601549/)
 
 ## USA
 - Conflicting plans prevent the AI United States from changing ideology. [Link](https://forum.paradoxplaza.com/forum/threads/conflicting-plans-prevent-ai-united-states-from-changing-ideology.1590275/)
