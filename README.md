@@ -19,7 +19,6 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - State ownership changes cause loss of extra building slots. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-building-slots-and-buildings-getting-destroyed-when-releasing-a-nation-and-created-nation-not-inheriting-tech-v1-12-6-beta.1557693/)
 - Trigger `is_controlled_by_ROOT_or_subject` doesn't have a loc key.
 - Typo in the spirit of the airforce "Industry Liaisons".
-- Slovenia has an incorrect capital. [Link](https://forum.paradoxplaza.com/forum/threads/some-emergent-countries-have-incorrect-capitals.1578066/)
 - Event "treaty_org.4" does not have a title.
 - Spirit of the Academy "Embrace the future" gives new officers Panzer Leader instead of Armor Officer. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-embrace-the-future-spirit-of-the-academy-in-officer-corps-usually-gets-you-panzer-leader-and-not-panzer-officer-barbarossa-v1-11-12-82b4.1538946/)
 - Several news events about the capture/liberation of states don't fire properly. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-the-news-of-the-fall-of-singapore-has-ceased-to-appear-1-9-0-last.1341120/)
@@ -36,6 +35,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Added some missing advisors for Nicaragua. [Link](https://forum.paradoxplaza.com/forum/threads/open-beta-patch-1-11-4-steam-only-updated-mk4-checksum-b22c.1499991/post-27958293)
 - ? Selecting a spirit of the academy that increases army leader skills during level-up prevents the spirits of the naval academy from increasing admiral skills during level-up. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-11-12-82b4-22d5-possible-faulty-logic-used-for-spirit-effects-on-characters-leveling-up.1535518/)
 - ? Unable to build Super Heavy Battleships without MtG DLC. [Link](https://forum.paradoxplaza.com/forum/threads/i-cant-build-super-heavy-battleships-because-i-dont-have-the-dlcs.1602487/)
+- ? Several admirals have planning and logistics skill defined instead of maneuvering and coordination skill. [Link](https://forum.paradoxplaza.com/forum/threads/knud-i-broken-admiral-for-iceland.1626186/)
 
 ## Australia
 - Focus "Support Indonesian Uprising" does not make Indonesia an Australian puppet. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
@@ -133,6 +133,8 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Gasperi, the Pope, and King Umberto do not have the balance of power changed in focus Proclaim the Italian Empire.
 - National Spirit "Italian Hegemony" does not have an icon. [Link](https://forum.paradoxplaza.com/forum/threads/puppet-cost-factor-modifier-not-working.1621684/)
 - The civil war triggered by BOP doesn't start resistance in Fascist Italy.
+- ? Focus "Italian Irredentism" gives Italy claims of a state in Saudi Arabia instead of Var.
+- ? Focus "Flotta d' evasione" does not adds dockyards to states fully controlled by puppet.
 
 ## India
 - The strength of the Indian civil war does not properly scale with autonomy level.
@@ -157,6 +159,9 @@ Note: the presence of "?" in some entries indicates that code has been implement
 ## Mexico
 - All fascist or non-aligned political leaders join Cedillo's rebellion. [Link](https://forum.paradoxplaza.com/forum/threads/losing-plutarco-calles-if-there-is-a-civil-war.1615468/)
 - Pre-determined rebel unit commanders don't appear. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-mexicos-characters-have-generic-portraits-arent-assigned-properly-or-are-missing-entirely.1503348/)
+
+## Netherlands
+- ? AI does not follow the monarchist path if selected through randomizer.
 
 ## Norway
 - The response to the event "Norway is seeking investments" doesn't fire. [Link](https://forum.paradoxplaza.com/forum/threads/as-norway-no-event-happens-when-complete-invite-foreign-investment-focus.1607316/)
@@ -193,7 +198,6 @@ Note: the presence of "?" in some entries indicates that code has been implement
     - The Stalinist Soviet Union spawned from the civil war is unable to continue the focus tree.
     - The Stalinist Soviet Union spawned from the civil war still keeps the opposition strategy plan.
     - Limited variation in AI's pre-Soviet Civil War base of operation selection. [Link](https://forum.paradoxplaza.com/forum/threads/limited-variation-in-ais-pre-soviet-civil-war-base-of-operation-selection.1590269/)
-    - National spirit "Anti-Soviet Thinking" cannot be removed after the right opposition coup. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-impossible-to-get-rid-of-anti-soviet-thinking-for-bloodless-coup-right-opposition.1539444/)
     - Design bureaus cannot be reinstated immediately after the right opposition coup.
     - The Soviet Civil War pauses the Communist Baltic civil war.
     - The Stalinist Soviet Union doesn't keep the negative great purge modifiers.
@@ -261,7 +265,6 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - The portrait of Winston Churchill is abnormal in non-Latin alphabet-based localisation. [Link](https://forum.paradoxplaza.com/forum/threads/protrait-of-winston-churchill-is-abnormal-in-non-latin-alphabet-based-localisation.1586877/)
 - The United Kingdom will not have cores on the US states if it reclaimed Canada through an imperialist civil war after forming the Imperial Federation with the North America dominion established. [Link](https://forum.paradoxplaza.com/forum/threads/no-cores-from-imperial-federation.1455596/)
 - Focus "Secure the Italian alliances" will bypass if BBA is not enabled. [Link](https://forum.paradoxplaza.com/forum/threads/the-focus-secure-the-italian-alliance-appears-to-bypass-no-matter-the-status-of-italy.1597338/)
-- Focus "The Burma Road" overlaps the focus "Secure the Imperial Shipping Routes". [Link](https://forum.paradoxplaza.com/forum/threads/secure-the-imperial-shipping-routes-hidden-behind-burma-road-stella-polaris-1-13-2-3d3a-0fae.1601549/)
 
 ## USA
 - Conflicting plans prevent the AI United States from changing ideology. [Link](https://forum.paradoxplaza.com/forum/threads/conflicting-plans-prevent-ai-united-states-from-changing-ideology.1590275/)
