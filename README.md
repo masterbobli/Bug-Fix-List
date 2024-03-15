@@ -36,6 +36,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - ? Selecting a spirit of the academy that increases army leader skills during level-up prevents the spirits of the naval academy from increasing admiral skills during level-up. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-11-12-82b4-22d5-possible-faulty-logic-used-for-spirit-effects-on-characters-leveling-up.1535518/)
 - ? Unable to build Super Heavy Battleships without MtG DLC. [Link](https://forum.paradoxplaza.com/forum/threads/i-cant-build-super-heavy-battleships-because-i-dont-have-the-dlcs.1602487/)
 - ? Several admirals have planning and logistics skill defined instead of maneuvering and coordination skill. [Link](https://forum.paradoxplaza.com/forum/threads/knud-i-broken-admiral-for-iceland.1626186/)
+- Some triggers will only be evaluated true when having more than 100% stability, war support, or world tension.
 
 ## Australia
 - Focus "Support Indonesian Uprising" does not make Indonesia an Australian puppet. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
