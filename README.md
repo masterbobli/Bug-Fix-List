@@ -205,6 +205,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
     - Unit leaders promoted to country leader in the uprising side may side with Stalin sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/soviet-opposition-may-have-generic-leader-during-civil-war.1592951/)
     - States targeted by right opposition uprisings don't align with the right opposition at the start of the civil war.
     - Decision "The Head of the NKVD - Yezhov" references Yagoda in the description instead of Yezhov.
+    - ? Breakaways that declare war on Provisional Government don't declare war on USSR. [Link](https://forum.paradoxplaza.com/forum/threads/in-white-russian-civil-war-breakaways-that-declare-war-on-provisional-government-dont-declare-war-on-ussr.1635437/)
 - Sakhalin and the Kuril Islands are not cored by the USSR. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-sakhalin-and-the-kuril-islands-dont-cored-by-ussr-v1-12-13-e502.1500386/)
 - Event "Promise of Peace Broken" fires to the wrong country when declaring war on the Soviet Union. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-promise-of-peace-broken-event-fires-to-the-wrong-country-when-declaring-war-on-soviet-union.1547603/)
 - Decision "Demand Increased Tribute" does not reduce the decision cost for the "Direct Rule from Moscow" decision. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-demand-increased-tribute-doesnt-reduce-the-decision-cost-for-decision-direct-rule-from-moscow.1508444/)
@@ -226,6 +227,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
     - Franco may die if the focus "Caudillo of Spain" is completed twice.
     - Spain with a dynamic tag does not display advisors correctly. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-rebel-tag-republican-spain-cannot-start-enlist-the-carabineros-focus-1-11-1f6bd-bf90.1499282/) [Link](https://forum.paradoxplaza.com/forum/threads/triggers-and-tooltips-involving-characters-are-broken-in-spanish-civil-war.1589975/)
     - Characters now go to the correct countries.
+    - Decision "Activate Fifth Columnists" does not appear sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-fifth-column-falangist-spain-focus-has-no-effect.1506846/)
  - Province modifier "Autonomous State" doesn't get removed when countries are released as free. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-sakhalin-and-the-kuril-islands-dont-cored-by-ussr-v1-12-13-e502.1500386/)
 - Global Defence Council has a duplicate decision to core Balearic Islands and Canary Islands. [Link](https://forum.paradoxplaza.com/forum/threads/duplicate-coring-decisions-for-islas-baleares-and-islas-canarias.1595410/)
 - National spirit "Popular Front" does not update properly sometimes.
@@ -233,7 +235,6 @@ Note: the presence of "?" in some entries indicates that code has been implement
 
 ## Sweden
 - Focus "Support Norwegian Communists" bypasses when Norway takes a non-communist path.
-- AI Sweden Activates all strategy plans when "Historical AI Focuses" is disabled. [Link](https://forum.paradoxplaza.com/forum/threads/ai-sweden-activates-all-strategy-plans-when-historical-ai-focuses-is-disabled.1603272/)
 - AI frequently rejects invitations to the Scandinavian Defense Union. [Link](https://forum.paradoxplaza.com/forum/threads/scandinavian-defense-union-ai-chance-is-broken.1602981/)
 - The tooltip of the focus "Reichsprotectorate Nordland" does not include Pechora as a target for state transfer. [Link](https://forum.paradoxplaza.com/forum/threads/tooltip-error-in-swedish-focus-reichsprotectorate-nordland.1617042/)
 - News event "Sweden claims Finnish land" has an incorrect option name.
@@ -241,6 +242,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Completing the focus "The New Order" during the civil war results in Fascist Sweden being annexed. [Link](https://forum.paradoxplaza.com/forum/threads/swedish-fascist-path.1614770/)
 - The old consumer goods formula is used to calculate research and production efficiency bonuses from Folkhemmet.
 - ? The size of the fascist civil war does not account for the non-aligned support properly.
+- ? Event "Mass Protests and Violence Erupt Due to Leftist Arrests" gives 50% stability. [Link](https://forum.paradoxplaza.com/forum/threads/event-mass-protests-and-violence-erupt-due-to-leftist-arrests-can-give-50-stability.1638517/)
 
 ## Switzerland
 - President initiatives modify stability and war support factors instead of stability and war support.
