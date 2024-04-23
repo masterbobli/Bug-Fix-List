@@ -25,21 +25,20 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Some state modifiers are added to the country scope, and vice versa.
 - AI is unlikely to invest in Greece or Turkey unless they have unused civilian factories. [Link](https://forum.paradoxplaza.com/forum/threads/greek-foreign-investment-decisions.1442150/)
 - Several AI factors that demand other countries to be puppeted/annexed from Poland/Baltics are incorrectly written.
-- AI does not hire advisors who possess the traits of communist revolutionary, democratic reformer, or fascist demagogue even when specifically instructed to do so most of the time.
+- AI does not hire advisors who possess the traits of communist revolutionary or democratic reformer even when specifically instructed to do so most of the time.
 - Fascist Occitania does not have small or medium flags. [Link](https://forum.paradoxplaza.com/forum/threads/fascist-occitania-wrong-flag.1596087/)
 - Fixed several misspellings of "snorkol" in the English localisation.
 - Decision "Dismantle the Maginot line" does not dismantle forts in Picardy if France extended the Maginot line.
 - Generic decision to purchase Soviet Ships don't work. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ethiopia-cant-purchase-soviet-ships.1554391/)
-- Lend lease tension limit modifier for satellites is incorrect. [Link](https://forum.paradoxplaza.com/forum/threads/typo-in-satellite-txt.1602757/)
 - Von Falkenhausen is still available as a unit leader for China after being recalled. [Link](https://forum.paradoxplaza.com/forum/threads/china-kuomintang-alexander-von-falkenhausen.1621612/)
 - Added some missing advisors for Nicaragua. [Link](https://forum.paradoxplaza.com/forum/threads/open-beta-patch-1-11-4-steam-only-updated-mk4-checksum-b22c.1499991/post-27958293)
 - ? Selecting a spirit of the academy that increases army leader skills during level-up prevents the spirits of the naval academy from increasing admiral skills during level-up. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-11-12-82b4-22d5-possible-faulty-logic-used-for-spirit-effects-on-characters-leveling-up.1535518/)
 - ? Unable to build Super Heavy Battleships without MtG DLC. [Link](https://forum.paradoxplaza.com/forum/threads/i-cant-build-super-heavy-battleships-because-i-dont-have-the-dlcs.1602487/)
 - ? Several admirals have planning and logistics skill defined instead of maneuvering and coordination skill. [Link](https://forum.paradoxplaza.com/forum/threads/knud-i-broken-admiral-for-iceland.1626186/)
 - Some triggers will only be evaluated true when having more than 100% stability, war support, or world tension.
+- ? The Yalta conference forces Austria to flip to democracy. [Link](https://forum.paradoxplaza.com/forum/threads/yalta-conference-causes-austria-to-flip-to-democracy.1644528/)
 
 ## Australia
-- Focus "Support Indonesian Uprising" does not make Indonesia an Australian puppet. [Link](https://forum.paradoxplaza.com/forum/threads/australia-support-indonesian-uprising.998864/)
 - Event to protect Malaysia changes the state controller to Malaysia instead of their current controller. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-commonwealth-dominions-focus-tree-territorial-transfer-should-check-controller-first.1573754/)
 
 ## Baltic
@@ -51,11 +50,10 @@ Note: the presence of "?" in some entries indicates that code has been implement
 ## China
 - Dali doesn't have the state modifier "Densely Populated Rural Area". [Link](https://forum.paradoxplaza.com/forum/threads/code-error-in-hearts-of-iron-iv-history-countries-chi-china-txt.1584851/)
 - Decisions "Evacuating Factories" don't work. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-evacuating-factories-china-decisions-still-dont-work-windows-steam-1-11-11-2eb0-8e75.1530192/)
-- Focus "Dominate Japan" and "Integrate Tibet" can still be taken when being a puppet. [Link](https://forum.paradoxplaza.com/forum/threads/communist-china-puppeted-my-japanese-puppet.1601815/)
 
 ## Communist China
 - The hidden event that ages Mao Zedong doesn't work. [Link](https://forum.paradoxplaza.com/forum/threads/cant-get-the-people-have-stood-up-achievment.1580470/)
-- Warlords cannot bypass focuses in the communist tree that has no effects.
+- Warlords cannot bypass some focuses in the communist tree that has no effects.
 - Parts of China Mao received after the Chinese United Front is disbanded contain no states.
 
 ## Denmark
@@ -64,6 +62,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Decision "Exile the Royal Family" can be repeated for infinitely many times with no cooldown.
 - Denmark is still the controller of Greenland in "Nordics Fragmented" game rule. [Link](https://forum.paradoxplaza.com/forum/threads/greenland-controlled-by-denmark-in-nordics-fragmented-game-rule.1618322/)
 - Event "King Kristian X Dies" will only trigger when Thorvald Stauning is alive instead of the king himself being alive.
+- ? Event "Danish War for Independence" is received by the overlord of Denmark.
 
 ## Estonia
 - National Focus "Unite the Finnic Identity" doesn't give cores on some states.
@@ -120,14 +119,11 @@ Note: the presence of "?" in some entries indicates that code has been implement
 ## Italy
 - Fascist Italy is unable to progress in focus tree after the anti-fascist civil war. [Link](https://forum.paradoxplaza.com/forum/threads/fascist-italy-unable-to-progress-in-focus-tree-after-anti-fascist-civil-war.1590660/)
 - The civil war triggered by BOP doesn't switch RDS to the correct ideology.
-- The "Lost Cores" modifier does not get removed after recapturing the state. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi-iv-italian-balance-of-power-lost-core-modifier-bug-1-12-11-checksum-66ce.1572437/)
-- Focus "Flotta d'Evasione" is always locked with MtG DLC enabled. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-12-11-italian-focus-flotta-devasione-not-possible-with-mtg.1572710/)
 - Modifier "Mafia on the Rise" is added to the country scope and cannot be removed. [Link](https://forum.paradoxplaza.com/forum/threads/mafia-on-the-rise-doesnt-go-away.1586525/)
 - Anarchists respond to themselves when communist Italy wants to cooperate with them. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-hoi-4-anarchists-responds-to-themselves-when-communist-italy-want-to-cooperate-with-them.1546020/)
 - Cannot release Ethiopia (and its constituents) with 70% compliance. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-italy-cant-release-ethiopia-even-with-the-required-compliance.1551526/)
 - Kingdom of Bosporus cannot be established if Crimea controls one of the required states.
 - Duplicate bonus for the production cost of heavy tanks in the Italian focus tree. [Link](https://forum.paradoxplaza.com/forum/threads/missing-bonuses-for-italian-military-industry.1592898/)
-- Focus "Corpo di Truppe Volontarie" can be bypassed before the Spanish Civil War begins. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-ita-corpo-di-truppe-volontarie-bypasses-if-the-focus-foreign-affairs-has-been-completed-before-the-spanish-civil-war.1562143/)
 - Mussolini can come to power again after being deposed through focus. [Link](https://forum.paradoxplaza.com/forum/threads/italy-deposed-mussolini-returns-to-power.1619054/)
 - Greece/Turkey fails to join the Italian faction in the trade of Dodecanese islands. [Link](https://forum.paradoxplaza.com/forum/threads/greece-turkey-fails-to-join-italian-faction-in-the-trade-of-dodecanese-islands-with-solution.1590557/)
 - Local Ethiopian rulers don't become country leaders if Italy attempts to release subject countries when Ethiopia goes into exile. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-pc-v1-12-2-9ebb-e45c-s-ethiopian-sub-nations-dont-use-unique-portraits.1545774/)
@@ -153,9 +149,6 @@ Note: the presence of "?" in some entries indicates that code has been implement
 ## Latvia
 - Decision "Ignite the [Country] Civil War” only targets Poland. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-latvias-ignite-civil-war-decisions-do-not-work-v1-11-2-a194-7844.1499979/)
 - AI always picks the non-aligned side of the fascist civil war even when the AI is set to take the fascist path.
-
-## Manchukuo
-- Aisin Gioro Puyi loses the Nationalist Symbol trait when the Chinese Empire is formed. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-aisin-gioro-puyi-loses-nationalist-symbol-trait-when-chinese-empire-is-formed.1574405/)
 
 ## Mexico
 - All fascist or non-aligned political leaders join Cedillo's rebellion. [Link](https://forum.paradoxplaza.com/forum/threads/losing-plutarco-calles-if-there-is-a-civil-war.1615468/)
@@ -187,6 +180,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Poland sets an invalid cosmetic tag for monarchist Lithuania.[Link](https://forum.paradoxplaza.com/forum/threads/poland-sets-wrong-cosmetic-tag-for-monarchist-lithuania.1615617/)
 - Piasecki becomes ruler of the fascist party in Sanation Right Poland spawned from civil war.
 - Starting the civil war as Sanationist Poland prevents Poland from progressing in focus tree. [Link](https://forum.paradoxplaza.com/forum/threads/poland-focus-tree-uncompletable.1531873/)
+- ? Selling multiple colonies to Poland does not extend the time of selling colonies effect.
 
 ## Romania
 - Focus "Invite German Advisors" gives Romania military access to Germany. [Link](https://forum.paradoxplaza.com/forum/threads/romanian-focus-invite-german-advisors-gives-military-access-to-a-wrong-country.1624061/)
@@ -205,7 +199,6 @@ Note: the presence of "?" in some entries indicates that code has been implement
     - Unit leaders promoted to country leader in the uprising side may side with Stalin sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/soviet-opposition-may-have-generic-leader-during-civil-war.1592951/)
     - States targeted by right opposition uprisings don't align with the right opposition at the start of the civil war.
     - Decision "The Head of the NKVD - Yezhov" references Yagoda in the description instead of Yezhov.
-    - ? Breakaways that declare war on Provisional Government don't declare war on USSR. [Link](https://forum.paradoxplaza.com/forum/threads/in-white-russian-civil-war-breakaways-that-declare-war-on-provisional-government-dont-declare-war-on-ussr.1635437/)
 - Sakhalin and the Kuril Islands are not cored by the USSR. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-sakhalin-and-the-kuril-islands-dont-cored-by-ussr-v1-12-13-e502.1500386/)
 - Event "Promise of Peace Broken" fires to the wrong country when declaring war on the Soviet Union. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-promise-of-peace-broken-event-fires-to-the-wrong-country-when-declaring-war-on-soviet-union.1547603/)
 - Decision "Demand Increased Tribute" does not reduce the decision cost for the "Direct Rule from Moscow" decision. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-demand-increased-tribute-doesnt-reduce-the-decision-cost-for-decision-direct-rule-from-moscow.1508444/)
@@ -243,6 +236,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - The old consumer goods formula is used to calculate research and production efficiency bonuses from Folkhemmet.
 - ? The size of the fascist civil war does not account for the non-aligned support properly.
 - ? Event "Mass Protests and Violence Erupt Due to Leftist Arrests" gives 50% stability. [Link](https://forum.paradoxplaza.com/forum/threads/event-mass-protests-and-violence-erupt-due-to-leftist-arrests-can-give-50-stability.1638517/)
+- ? Renewed national spirit "Crusade Against the Eastern Threat" is given to the country controlling the targeted state.
 
 ## Switzerland
 - President initiatives modify stability and war support factors instead of stability and war support.
@@ -271,7 +265,6 @@ Note: the presence of "?" in some entries indicates that code has been implement
 
 ## USA
 - Conflicting plans prevent the AI United States from changing ideology. [Link](https://forum.paradoxplaza.com/forum/threads/conflicting-plans-prevent-ai-united-states-from-changing-ideology.1590275/)
-- Chromium mines in Alaska can be expanded indefinitely. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-infinite-chromium-in-alaska-1-12-6-46b6-a6ba.1559922/)
 - ? Non-MTG naval OOB starts with duplicate submarines. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-usa-starts-with-extra-submarines-without-mtg.1574789/)
 - ? Decision "Homeland Defense Emergency Act" and both events for the US to return to democracy only remove the initial version of the great depression.
 - The Philippines does not have the correct party popularity set. [Link](https://forum.paradoxplaza.com/forum/threads/fix-the-incorrect-display-of-the-popularity-of-philippine-parties.1594613/)
@@ -279,4 +272,3 @@ Note: the presence of "?" in some entries indicates that code has been implement
 ## Yugoslavia
 - Nikola Mandic does not appear in the game. [Link](https://forum.paradoxplaza.com/forum/threads/open-beta-patch-1-11-4-steam-only-updated-mk4-checksum-b22c.1499991/post-27958293)
 - Peter's coup will result in Belgrade being transferred to the Rebels.
-- Prince Paul's trait "Collaborator King" is not added through the event triggered by the focus "Coronation". [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-yugoslavia-collaborator-king-traits-not-present-b22c.1503835/)
