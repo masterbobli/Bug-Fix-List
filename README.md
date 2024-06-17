@@ -35,6 +35,10 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - ? Selecting a spirit of the academy that increases army leader skills during level-up prevents the spirits of the naval academy from increasing admiral skills during level-up. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-1-11-12-82b4-22d5-possible-faulty-logic-used-for-spirit-effects-on-characters-leveling-up.1535518/)
 - Some triggers will only be evaluated true when having more than 100% stability, war support, or world tension.
 - The Yalta conference forces Austria to flip to democracy even when Austria exists. [Link](https://forum.paradoxplaza.com/forum/threads/yalta-conference-causes-austria-to-flip-to-democracy.1644528/)
+- Typo in the name of the VP "Liége". [Link](https://forum.paradoxplaza.com/forum/threads/liege-city-typo-should-be-liege-not-liege.1675053/)
+
+## Argentina
+- Decision to integrate conquered territories includes Guatemala and Belize, but not other central american states.
 
 ## Australia
 - Event to protect Malaysia changes the state controller to Malaysia instead of their current controller. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-commonwealth-dominions-focus-tree-territorial-transfer-should-check-controller-first.1573754/)
@@ -44,6 +48,11 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Incorrect Annexation of Belarus in the Belarussian Civil War. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-launching-civil-war-in-belarussian-states-with-high-claims-results-in-winner-directly-annexing-the-soviet-belarus-without-getting-cores.1502952/)
 - Communist Baltic countries keep generals with anti-bolshevism traits in civil war. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-communist-baltic-countries-keeps-generals-with-anti-bolshevism-traits-in-civil-war.1502948/)
 - Lithuania's Baltic Entente decision has a few TODO effects.
+
+## Bulgaria
+- ? Fatherland Front can happen without Bftb DLC. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-patch-v1-10-5-502a-bulgaria-without-bfb-dlc-bug.1473992/)
+- The tooltip of the focus "Appeal to European Capitalists" does not reflect the actual consumer goods reduced.
+- The tooltip of the industrial agreement decision does not reflect the actual consumer goods increased.
 
 ## China
 - Dali doesn't have the state modifier "Densely Populated Rural Area". [Link](https://forum.paradoxplaza.com/forum/threads/code-error-in-hearts-of-iron-iv-history-countries-chi-china-txt.1584851/)
@@ -108,6 +117,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - AI Greece always arrests the king with historical AI focuses off.
 - "Edirne" does not get renamed to "Thracia" when forming Byzantium.
 - "Balıkesir" does not get renamed to "Palaeokastron" when forming Greater Greece. [Link](https://forum.paradoxplaza.com/forum/threads/greater-greece-decision-renaming-cities.1596368/)
+- Event "Eleftherios Venizelos passes away" kills Aristotle Onassis if he is the country leader. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-the-event-eleftherios-venizelos-passes-away-doesnt-check-if-he-is-the-current-prime-minister-of-greece-or-not-1-10-1-dd56.1436612/)
 
 ## Hungary
 - Focus "Reclaim the Empire" cannot be taken if Hungary already controls one of the required states.
@@ -205,6 +215,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Focus "Regional Development" add building slots to Qingdao instead of Dushanbe.
 - Khakassia is not considered as a Soviet Republic.
 - Focus "The Common Economic Space Initiative" adds Russian subjects to Comicon sharing group. [Link](https://forum.paradoxplaza.com/forum/threads/1-13-5-non-communist-version-of-sov-comecon-focus-adds-countries-to-two-tech-sharing-groups.1615521/)
+- The tooltip of the focus "Third Five Year Plan" does not reflect the actual consumer goods increased. [Link](https://forum.paradoxplaza.com/forum/threads/third-five-year-plan-5-or-10-of-consumer-good.1682804/)
 
 ## Spain
 - Various issues in the Spanish Civil War, including
@@ -212,6 +223,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
     - Spain with a dynamic tag does not display advisors correctly. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-rebel-tag-republican-spain-cannot-start-enlist-the-carabineros-focus-1-11-1f6bd-bf90.1499282/) [Link](https://forum.paradoxplaza.com/forum/threads/triggers-and-tooltips-involving-characters-are-broken-in-spanish-civil-war.1589975/)
     - Characters now go to the correct countries.
     - Decision "Activate Fifth Columnists" does not appear sometimes. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-fifth-column-falangist-spain-focus-has-no-effect.1506846/)
+- Máté Zalka uses a generic portrait. [Link](https://forum.paradoxplaza.com/forum/threads/mate-zalka-portrait-is-missing.1687973/)
 - Global Defence Council has a duplicate decision to core Balearic Islands and Canary Islands. [Link](https://forum.paradoxplaza.com/forum/threads/duplicate-coring-decisions-for-islas-baleares-and-islas-canarias.1595410/)
 - National spirit "Popular Front" does not update properly sometimes.
 - Focus "Portuguese Anarchism" may result in the anarchist puppeting another non-aligned Portugal instead of anarchist portugal.
@@ -257,6 +269,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Non-MTG naval OOB starts with duplicate submarines. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-usa-starts-with-extra-submarines-without-mtg.1574789/)
 - Decision "Homeland Defense Emergency Act" and both events for the US to return to democracy only remove the initial version of the great depression.
 - The Philippines does not have the correct party popularity set. [Link](https://forum.paradoxplaza.com/forum/threads/fix-the-incorrect-display-of-the-popularity-of-philippine-parties.1594613/)
+- René Joyeuse uses a generic portrait. [Link](https://forum.paradoxplaza.com/forum/threads/rene-joyeuses-missing-portrait.1687964/)
 
 ## Yugoslavia
 - Nikola Mandic does not appear in the game. [Link](https://forum.paradoxplaza.com/forum/threads/open-beta-patch-1-11-4-steam-only-updated-mk4-checksum-b22c.1499991/post-27958293)
