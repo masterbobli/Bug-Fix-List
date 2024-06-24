@@ -39,6 +39,7 @@ Note: the presence of "?" in some entries indicates that code has been implement
 
 ## Argentina
 - Decision to integrate conquered territories includes Guatemala and Belize, but not other central american states.
+- The tooltip of focus "Reach out to the Great Powers" is inconsistent with the actual effect of the modifier international loan in terms of political power cost.
 
 ## Australia
 - Event to protect Malaysia changes the state controller to Malaysia instead of their current controller. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-commonwealth-dominions-focus-tree-territorial-transfer-should-check-controller-first.1573754/)
