@@ -36,10 +36,11 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Some triggers will only be evaluated true when having more than 100% stability, war support, or world tension.
 - The Yalta conference forces Austria to flip to democracy even when Austria exists. [Link](https://forum.paradoxplaza.com/forum/threads/yalta-conference-causes-austria-to-flip-to-democracy.1644528/)
 - Typo in the name of the VP "Liége". [Link](https://forum.paradoxplaza.com/forum/threads/liege-city-typo-should-be-liege-not-liege.1675053/)
+- The tooltip of Brazil and Argentina focus "Reach out to the Great Powers" is inconsistent with the actual effect of the modifier international loan in terms of political power cost.
 
 ## Argentina
 - Decision to integrate conquered territories includes Guatemala and Belize, but not other central american states.
-- The tooltip of focus "Reach out to the Great Powers" is inconsistent with the actual effect of the modifier international loan in terms of political power cost.
+- Argentina cannot start the focus "Support the Spanish Coup" if Spain took the republican side. [Link](https://forum.paradoxplaza.com/forum/threads/when-the-spanish-ai-goes-for-the-republican-side-argentina-cannot-start-the-focus-support-the-spanish-coup.1692861/)
 
 ## Australia
 - Event to protect Malaysia changes the state controller to Malaysia instead of their current controller. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-commonwealth-dominions-focus-tree-territorial-transfer-should-check-controller-first.1573754/)
@@ -50,10 +51,16 @@ Note: the presence of "?" in some entries indicates that code has been implement
 - Communist Baltic countries keep generals with anti-bolshevism traits in civil war. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-communist-baltic-countries-keeps-generals-with-anti-bolshevism-traits-in-civil-war.1502948/)
 - Lithuania's Baltic Entente decision has a few TODO effects.
 
+## Brazil
+- Event "Portugal Refuses to Transfer Colonies" have two options with the same name. [Link](https://forum.paradoxplaza.com/forum/threads/spelling-mistake-in-an-brazilian-event.1694098/)
+
 ## Bulgaria
 - ? Fatherland Front can happen without Bftb DLC. [Link](https://forum.paradoxplaza.com/forum/threads/hoi-4-patch-v1-10-5-502a-bulgaria-without-bfb-dlc-bug.1473992/)
 - The tooltip of the focus "Appeal to European Capitalists" does not reflect the actual consumer goods reduced.
 - The tooltip of the industrial agreement decision does not reflect the actual consumer goods increased.
+
+## Chile
+- Mapuche Chile can have multiple Mapuche Conflict national spirits. [Link](https://forum.paradoxplaza.com/forum/threads/mapuche-chile-can-have-2-mapuche-conflict-spirits-and-you-cant-get-rid-of-the-other-one.1693470/)
 
 ## China
 - Dali doesn't have the state modifier "Densely Populated Rural Area". [Link](https://forum.paradoxplaza.com/forum/threads/code-error-in-hearts-of-iron-iv-history-countries-chi-china-txt.1584851/)
